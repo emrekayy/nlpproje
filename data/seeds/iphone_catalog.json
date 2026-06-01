@@ -1,0 +1,1528 @@
+{
+  "products": [
+    {
+      "id": "iphone-01",
+      "slug": "iphone-11",
+      "name": "iPhone 11",
+      "family": "iPhone 11 Series",
+      "release_year": 2019,
+      "chipset": "A13 Bionic",
+      "display_type": "Liquid Retina HD",
+      "display_size": "6.1\"",
+      "battery_summary": "Gunluk kullanimda rahat bir gunu cikarabilen pil performansi",
+      "camera_summary": "Cift arka kamera ile dengeli fotograf ve video paketi",
+      "storage_options": [
+        "64 GB",
+        "128 GB",
+        "256 GB"
+      ],
+      "weight": "194 g",
+      "notable_highlights": [
+        "Renkli tasarim",
+        "Dengeli performans",
+        "Guclu video stabilizasyonu"
+      ],
+      "short_description": "Serinin erisilebilir giris modeli; hala dengeli bir temel deneyim sunuyor.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 11 genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A13 Bionic ile akici performans",
+            "Liquid Retina HD panelin sundugu kaliteli ekran deneyimi",
+            "Cift arka kamera ile dengeli fotograf ve video paketi"
+          ],
+          "top_negative_aspects": [
+            "Kompakt govde nedeniyle pil beklentisinin daha sinirli kalmasi",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 11 icin en cok a13 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda gunluk kullanimda rahat bir gunu cikarabilen pil performansi ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok kompakt govde nedeniyle pil beklentisinin daha sinirli kalmasi ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 11 modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 11 icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 11 kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.69
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-02",
+      "slug": "iphone-11-pro",
+      "name": "iPhone 11 Pro",
+      "family": "iPhone 11 Series",
+      "release_year": 2019,
+      "chipset": "A13 Bionic",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "5.8\"",
+      "battery_summary": "Kompakt sinifa gore guclu dayaniklilik",
+      "camera_summary": "Uc arka kamera ile premium kadraj esnekligi",
+      "storage_options": [
+        "64 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "weight": "188 g",
+      "notable_highlights": [
+        "Kompakt premium govde",
+        "Telefoto lens",
+        "Parlak OLED panel"
+      ],
+      "short_description": "Kucuk boyutta amiral gemisi hissi arayanlar icin premium iPhone yorumu.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 11 Pro genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A13 Bionic ile akici performans",
+            "Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "Uc arka kamera ile premium kadraj esnekligi"
+          ],
+          "top_negative_aspects": [
+            "Uzun kullanimda agirlik ve elde yoruculuk",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 11 Pro icin en cok a13 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda kompakt sinifa gore guclu dayaniklilik ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok uzun kullanimda agirlik ve elde yoruculuk ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 11 Pro modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 11 Pro icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 11 Pro kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.69
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-03",
+      "slug": "iphone-11-pro-max",
+      "name": "iPhone 11 Pro Max",
+      "family": "iPhone 11 Series",
+      "release_year": 2019,
+      "chipset": "A13 Bionic",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "6.5\"",
+      "battery_summary": "Serisinin en uzun giden pillerinden biri",
+      "camera_summary": "Uc arka kamera ile guclu video ve zoom deneyimi",
+      "storage_options": [
+        "64 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "weight": "226 g",
+      "notable_highlights": [
+        "Uzun pil omru",
+        "Buyuk ekran",
+        "Premium kamera sistemi"
+      ],
+      "short_description": "11 serisinin en uzun omurlu ve en kapsamli modeli.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 11 Pro Max genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A13 Bionic ile akici performans",
+            "Buyuk ekranin medya ve okuma deneyimini guclendirmesi",
+            "Uc arka kamera ile guclu video ve zoom deneyimi"
+          ],
+          "top_negative_aspects": [
+            "Uzun kullanimda agirlik ve elde yoruculuk",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 11 Pro Max icin en cok a13 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda serisinin en uzun giden pillerinden biri ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok uzun kullanimda agirlik ve elde yoruculuk ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 11 Pro Max modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 11 Pro Max icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Buyuk govde ergonomisi",
+            "description": "Bazi kullanicilar iPhone 11 Pro Max modelinin tek elle kullanimda agir ve hacimli hissettirdigini belirtiyor.",
+            "confidence_score": 0.71
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-04",
+      "slug": "iphone-12",
+      "name": "iPhone 12",
+      "family": "iPhone 12 Series",
+      "release_year": 2020,
+      "chipset": "A14 Bionic",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "6.1\"",
+      "battery_summary": "5G kullaniminda orta-iyi seviye pil dengesi",
+      "camera_summary": "Gece cekimlerinde daha guclu cift kamera sistemi",
+      "storage_options": [
+        "64 GB",
+        "128 GB",
+        "256 GB"
+      ],
+      "weight": "164 g",
+      "notable_highlights": [
+        "Ceramic Shield",
+        "OLED ekran",
+        "Daha ince kasa"
+      ],
+      "short_description": "Modern tasarim diline gecis yapan dengeli ana model.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 12 genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A14 Bionic ile akici performans",
+            "Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "Gece cekimlerinde daha guclu cift kamera sistemi"
+          ],
+          "top_negative_aspects": [
+            "Yuksek yenileme hizinin yalnizca Pro modellerde olmasi",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 12 icin en cok a14 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda 5g kullaniminda orta-iyi seviye pil dengesi ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok yuksek yenileme hizinin yalnizca pro modellerde olmasi ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 12 modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 12 icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 12 kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.69
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-05",
+      "slug": "iphone-12-mini",
+      "name": "iPhone 12 mini",
+      "family": "iPhone 12 Series",
+      "release_year": 2020,
+      "chipset": "A14 Bionic",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "5.4\"",
+      "battery_summary": "Kompakt form faktoru nedeniyle sinirli ama verimli pil davranisi",
+      "camera_summary": "Mini boyutta tam iPhone 12 kamera deneyimi",
+      "storage_options": [
+        "64 GB",
+        "128 GB",
+        "256 GB"
+      ],
+      "weight": "135 g",
+      "notable_highlights": [
+        "Cok kompakt boyut",
+        "Hafiflik",
+        "OLED ekran"
+      ],
+      "short_description": "Kucuk telefon sevenler icin nadir bulunan guclu bir secenek.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 12 mini genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A14 Bionic ile akici performans",
+            "Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "Mini boyutta tam iPhone 12 kamera deneyimi"
+          ],
+          "top_negative_aspects": [
+            "Kompakt govde nedeniyle pil beklentisinin daha sinirli kalmasi",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 12 mini icin en cok a14 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda kompakt form faktoru nedeniyle sinirli ama verimli pil davranisi ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok kompakt govde nedeniyle pil beklentisinin daha sinirli kalmasi ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 12 mini modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Kompakt kasa nedeniyle pil beklentisi",
+            "description": "iPhone 12 mini sahipleri, kucuk govde nedeniyle yogun kullanim gunlerinde sarj takviyesi ihtiyacinin arttigini soyluyor.",
+            "confidence_score": 0.82
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 12 mini kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.69
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-06",
+      "slug": "iphone-12-pro",
+      "name": "iPhone 12 Pro",
+      "family": "iPhone 12 Series",
+      "release_year": 2020,
+      "chipset": "A14 Bionic",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "6.1\"",
+      "battery_summary": "Premium segment icin istikrarli gun sonu performansi",
+      "camera_summary": "LiDAR destekli gelismis pro kamera paketi",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "weight": "189 g",
+      "notable_highlights": [
+        "LiDAR",
+        "Paslanmaz celik govde",
+        "ProRAW hazirligi"
+      ],
+      "short_description": "Profesyonel cekim ve premium malzeme isteyenler icin gelistirilmis 12.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 12 Pro genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A14 Bionic ile akici performans",
+            "Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "LiDAR destekli gelismis pro kamera paketi"
+          ],
+          "top_negative_aspects": [
+            "Uzun kullanimda agirlik ve elde yoruculuk",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 12 Pro icin en cok a14 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda premium segment icin istikrarli gun sonu performansi ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok uzun kullanimda agirlik ve elde yoruculuk ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 12 Pro modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 12 Pro icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 12 Pro kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.69
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-07",
+      "slug": "iphone-12-pro-max",
+      "name": "iPhone 12 Pro Max",
+      "family": "iPhone 12 Series",
+      "release_year": 2020,
+      "chipset": "A14 Bionic",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "6.7\"",
+      "battery_summary": "Serinin en guclu pil performansi",
+      "camera_summary": "Daha buyuk sensor avantajiyla daha guclu dusuk isik performansi",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "weight": "228 g",
+      "notable_highlights": [
+        "En buyuk 12 serisi ekran",
+        "Daha buyuk ana sensor",
+        "Uzun pil"
+      ],
+      "short_description": "12 ailesinin kamera ve pil odakli en guclu secenegi.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 12 Pro Max genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A14 Bionic ile akici performans",
+            "Buyuk ekranin medya ve okuma deneyimini guclendirmesi",
+            "Daha buyuk sensor avantajiyla daha guclu dusuk isik performansi"
+          ],
+          "top_negative_aspects": [
+            "Uzun kullanimda agirlik ve elde yoruculuk",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 12 Pro Max icin en cok a14 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda serinin en guclu pil performansi ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok uzun kullanimda agirlik ve elde yoruculuk ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 12 Pro Max modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 12 Pro Max icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Buyuk govde ergonomisi",
+            "description": "Bazi kullanicilar iPhone 12 Pro Max modelinin tek elle kullanimda agir ve hacimli hissettirdigini belirtiyor.",
+            "confidence_score": 0.71
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-08",
+      "slug": "iphone-13",
+      "name": "iPhone 13",
+      "family": "iPhone 13 Series",
+      "release_year": 2021,
+      "chipset": "A15 Bionic",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "6.1\"",
+      "battery_summary": "11 ve 12'ye gore belirgin iyilesen pil sureleri",
+      "camera_summary": "Sensor shift sabitleme ile daha guclu ana kamera",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "weight": "174 g",
+      "notable_highlights": [
+        "Daha iyi pil",
+        "Parlak ekran",
+        "Guclu video"
+      ],
+      "short_description": "Genel denge acisindan cok genis kitleye hitap eden ana model.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 13 genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A15 Bionic ile akici performans",
+            "Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "Sensor shift sabitleme ile daha guclu ana kamera"
+          ],
+          "top_negative_aspects": [
+            "Yuksek yenileme hizinin yalnizca Pro modellerde olmasi",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 13 icin en cok a15 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda 11 ve 12'ye gore belirgin iyilesen pil sureleri ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok yuksek yenileme hizinin yalnizca pro modellerde olmasi ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 13 modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 13 icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 13 kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.69
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-09",
+      "slug": "iphone-13-mini",
+      "name": "iPhone 13 mini",
+      "family": "iPhone 13 Series",
+      "release_year": 2021,
+      "chipset": "A15 Bionic",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "5.4\"",
+      "battery_summary": "Mini segment icinde anlamli sekilde iyilesmis dayaniklilik",
+      "camera_summary": "Kompakt boyutta guclu cift kamera",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "weight": "141 g",
+      "notable_highlights": [
+        "Kompakt amiral gemisi",
+        "Daha iyi pil",
+        "Guclu islemci"
+      ],
+      "short_description": "Kucuk govdede ust duzey deneyimi en olgun haliyle sunan mini.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 13 mini genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A15 Bionic ile akici performans",
+            "Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "Kompakt boyutta guclu cift kamera"
+          ],
+          "top_negative_aspects": [
+            "Kompakt govde nedeniyle pil beklentisinin daha sinirli kalmasi",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 13 mini icin en cok a15 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda mini segment icinde anlamli sekilde iyilesmis dayaniklilik ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok kompakt govde nedeniyle pil beklentisinin daha sinirli kalmasi ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 13 mini modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Kompakt kasa nedeniyle pil beklentisi",
+            "description": "iPhone 13 mini sahipleri, kucuk govde nedeniyle yogun kullanim gunlerinde sarj takviyesi ihtiyacinin arttigini soyluyor.",
+            "confidence_score": 0.82
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 13 mini kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.69
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-10",
+      "slug": "iphone-13-pro",
+      "name": "iPhone 13 Pro",
+      "family": "iPhone 13 Series",
+      "release_year": 2021,
+      "chipset": "A15 Bionic",
+      "display_type": "ProMotion Super Retina XDR OLED",
+      "display_size": "6.1\"",
+      "battery_summary": "120 Hz ekrana ragmen guclu optimizasyonla gunu rahat tamamlama",
+      "camera_summary": "Makro ve sinematik video dahil cok yonlu pro kamera",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "weight": "204 g",
+      "notable_highlights": [
+        "120 Hz ProMotion",
+        "Makro cekim",
+        "Premium performans"
+      ],
+      "short_description": "ProMotion ile iPhone deneyiminde hissedilir akicilik sunan premium secenek.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 13 Pro genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A15 Bionic ile akici performans",
+            "ProMotion Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "Makro ve sinematik video dahil cok yonlu pro kamera"
+          ],
+          "top_negative_aspects": [
+            "Uzun kullanimda agirlik ve elde yoruculuk",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 13 Pro icin en cok a15 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda 120 hz ekrana ragmen guclu optimizasyonla gunu rahat tamamlama ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok uzun kullanimda agirlik ve elde yoruculuk ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 13 Pro modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 13 Pro icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 13 Pro kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.69
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-11",
+      "slug": "iphone-13-pro-max",
+      "name": "iPhone 13 Pro Max",
+      "family": "iPhone 13 Series",
+      "release_year": 2021,
+      "chipset": "A15 Bionic",
+      "display_type": "ProMotion Super Retina XDR OLED",
+      "display_size": "6.7\"",
+      "battery_summary": "Apple tarafinda referans sayilan uzun pil omru",
+      "camera_summary": "Pro seviyede video ve buyuk ekran avantajini birlestiriyor",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "weight": "240 g",
+      "notable_highlights": [
+        "Cok uzun pil omru",
+        "120 Hz ekran",
+        "Pro kamera"
+      ],
+      "short_description": "Pil ve ekran oncelikli kullanicilar icin halen guclu bir kriter cihaz.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 13 Pro Max genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A15 Bionic ile akici performans",
+            "Buyuk ekranin medya ve okuma deneyimini guclendirmesi",
+            "Pro seviyede video ve buyuk ekran avantajini birlestiriyor"
+          ],
+          "top_negative_aspects": [
+            "Uzun kullanimda agirlik ve elde yoruculuk",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 13 Pro Max icin en cok a15 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda apple tarafinda referans sayilan uzun pil omru ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok uzun kullanimda agirlik ve elde yoruculuk ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 13 Pro Max modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 13 Pro Max icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Buyuk govde ergonomisi",
+            "description": "Bazi kullanicilar iPhone 13 Pro Max modelinin tek elle kullanimda agir ve hacimli hissettirdigini belirtiyor.",
+            "confidence_score": 0.71
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-12",
+      "slug": "iphone-14",
+      "name": "iPhone 14",
+      "family": "iPhone 14 Series",
+      "release_year": 2022,
+      "chipset": "A15 Bionic",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "6.1\"",
+      "battery_summary": "Gundelik kullanimda tutarli ve ongorulebilir pil performansi",
+      "camera_summary": "Photonic Engine ile daha guclu dusuk isik ciktilari",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "weight": "172 g",
+      "notable_highlights": [
+        "Photonic Engine",
+        "Crash Detection",
+        "Dengeli kullanim"
+      ],
+      "short_description": "13 uzerine daha rafine bir deneyim ve guvenlik odagi ekliyor.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 14 genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A15 Bionic ile akici performans",
+            "Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "Photonic Engine ile daha guclu dusuk isik ciktilari"
+          ],
+          "top_negative_aspects": [
+            "Yuksek yenileme hizinin yalnizca Pro modellerde olmasi",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 14 icin en cok a15 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda gundelik kullanimda tutarli ve ongorulebilir pil performansi ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok yuksek yenileme hizinin yalnizca pro modellerde olmasi ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 14 modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 14 icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 14 kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.69
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-13",
+      "slug": "iphone-14-plus",
+      "name": "iPhone 14 Plus",
+      "family": "iPhone 14 Series",
+      "release_year": 2022,
+      "chipset": "A15 Bionic",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "6.7\"",
+      "battery_summary": "Pro Max olmadan buyuk ekran ve uzun pil isteyenlere hitap ediyor",
+      "camera_summary": "Ana kamera deneyimi buyuk ekran formatinda sunuluyor",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "weight": "203 g",
+      "notable_highlights": [
+        "Buyuk ekran",
+        "Uzun pil",
+        "Hafif buyuk govde"
+      ],
+      "short_description": "Pro fiyatina cikmadan buyuk ekran ve dayaniklilik isteyenler icin.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 14 Plus genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A15 Bionic ile akici performans",
+            "Buyuk ekranin medya ve okuma deneyimini guclendirmesi",
+            "Ana kamera deneyimi buyuk ekran formatinda sunuluyor"
+          ],
+          "top_negative_aspects": [
+            "Yuksek yenileme hizinin yalnizca Pro modellerde olmasi",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 14 Plus icin en cok a15 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda pro max olmadan buyuk ekran ve uzun pil isteyenlere hitap ediyor ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok yuksek yenileme hizinin yalnizca pro modellerde olmasi ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 14 Plus modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 14 Plus icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Buyuk govde ergonomisi",
+            "description": "Bazi kullanicilar iPhone 14 Plus modelinin tek elle kullanimda agir ve hacimli hissettirdigini belirtiyor.",
+            "confidence_score": 0.71
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-14",
+      "slug": "iphone-14-pro",
+      "name": "iPhone 14 Pro",
+      "family": "iPhone 14 Series",
+      "release_year": 2022,
+      "chipset": "A16 Bionic",
+      "display_type": "ProMotion Super Retina XDR OLED",
+      "display_size": "6.1\"",
+      "battery_summary": "Yuksek parlaklik ve AOD'ye ragmen iyi optimize pil dengesi",
+      "camera_summary": "48 MP ana sensor ile daha detayli cekim kabiliyeti",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "weight": "206 g",
+      "notable_highlights": [
+        "Dynamic Island",
+        "48 MP ana kamera",
+        "AOD"
+      ],
+      "short_description": "Yeni arayuz dili ve 48 MP gecisiyle belirgin bir pro nesil siramasi.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 14 Pro genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A16 Bionic ile akici performans",
+            "ProMotion Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "48 MP ana sensor ile daha detayli cekim kabiliyeti"
+          ],
+          "top_negative_aspects": [
+            "Uzun kullanimda agirlik ve elde yoruculuk",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 14 Pro icin en cok a16 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda yuksek parlaklik ve aod'ye ragmen iyi optimize pil dengesi ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok uzun kullanimda agirlik ve elde yoruculuk ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 14 Pro modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 14 Pro icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 14 Pro kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.69
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-15",
+      "slug": "iphone-14-pro-max",
+      "name": "iPhone 14 Pro Max",
+      "family": "iPhone 14 Series",
+      "release_year": 2022,
+      "chipset": "A16 Bionic",
+      "display_type": "ProMotion Super Retina XDR OLED",
+      "display_size": "6.7\"",
+      "battery_summary": "Yuksek parlaklikli buyuk ekrana ragmen cok guclu pil",
+      "camera_summary": "48 MP kamera ve buyuk ekranla premium medya ve cekim deneyimi",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "weight": "240 g",
+      "notable_highlights": [
+        "Dynamic Island",
+        "Uzun pil",
+        "48 MP kamera"
+      ],
+      "short_description": "14 serisinin en kapsamli ekran, pil ve kamera kombinasyonu.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 14 Pro Max genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A16 Bionic ile akici performans",
+            "Buyuk ekranin medya ve okuma deneyimini guclendirmesi",
+            "48 MP kamera ve buyuk ekranla premium medya ve cekim deneyimi"
+          ],
+          "top_negative_aspects": [
+            "Uzun kullanimda agirlik ve elde yoruculuk",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 14 Pro Max icin en cok a16 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda yuksek parlaklikli buyuk ekrana ragmen cok guclu pil ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok uzun kullanimda agirlik ve elde yoruculuk ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 14 Pro Max modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 14 Pro Max icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Buyuk govde ergonomisi",
+            "description": "Bazi kullanicilar iPhone 14 Pro Max modelinin tek elle kullanimda agir ve hacimli hissettirdigini belirtiyor.",
+            "confidence_score": 0.71
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-16",
+      "slug": "iphone-15",
+      "name": "iPhone 15",
+      "family": "iPhone 15 Series",
+      "release_year": 2023,
+      "chipset": "A16 Bionic",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "6.1\"",
+      "battery_summary": "USB-C donusumu ve verimli performansla dengeli kullanim suresi",
+      "camera_summary": "48 MP ana kamera ana seri icin buyuk bir sicrama sunuyor",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "weight": "171 g",
+      "notable_highlights": [
+        "USB-C",
+        "48 MP kamera",
+        "Dynamic Island"
+      ],
+      "short_description": "Ana seri tarafinda modernlesen baglanti ve kamera paketi sunuyor.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 15 genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A16 Bionic ile akici performans",
+            "Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "48 MP ana kamera ana seri icin buyuk bir sicrama sunuyor"
+          ],
+          "top_negative_aspects": [
+            "Yuksek yenileme hizinin yalnizca Pro modellerde olmasi",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 15 icin en cok a16 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda usb-c donusumu ve verimli performansla dengeli kullanim suresi ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok yuksek yenileme hizinin yalnizca pro modellerde olmasi ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 15 modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 15 icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 15 kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.69
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-17",
+      "slug": "iphone-15-plus",
+      "name": "iPhone 15 Plus",
+      "family": "iPhone 15 Series",
+      "release_year": 2023,
+      "chipset": "A16 Bionic",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "6.7\"",
+      "battery_summary": "Serinin en guclu standart model pil performanslarindan biri",
+      "camera_summary": "48 MP ana kamera buyuk ekran deneyimiyle destekleniyor",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "weight": "201 g",
+      "notable_highlights": [
+        "Uzun pil",
+        "USB-C",
+        "Buyuk ekran"
+      ],
+      "short_description": "Pro olmayan sinifta pil odakli en guclu seceneklerden biri.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 15 Plus genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A16 Bionic ile akici performans",
+            "Buyuk ekranin medya ve okuma deneyimini guclendirmesi",
+            "48 MP ana kamera buyuk ekran deneyimiyle destekleniyor"
+          ],
+          "top_negative_aspects": [
+            "Yuksek yenileme hizinin yalnizca Pro modellerde olmasi",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 15 Plus icin en cok a16 bionic ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda serinin en guclu standart model pil performanslarindan biri ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok yuksek yenileme hizinin yalnizca pro modellerde olmasi ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 15 Plus modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 15 Plus icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Buyuk govde ergonomisi",
+            "description": "Bazi kullanicilar iPhone 15 Plus modelinin tek elle kullanimda agir ve hacimli hissettirdigini belirtiyor.",
+            "confidence_score": 0.71
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-18",
+      "slug": "iphone-15-pro",
+      "name": "iPhone 15 Pro",
+      "family": "iPhone 15 Series",
+      "release_year": 2023,
+      "chipset": "A17 Pro",
+      "display_type": "ProMotion Super Retina XDR OLED",
+      "display_size": "6.1\"",
+      "battery_summary": "Titanyum kasaya gecisle hafifleyen premium modelde dengeli pil",
+      "camera_summary": "Gelismis hesaplamali cekim ve pro video imkanlari",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "weight": "187 g",
+      "notable_highlights": [
+        "Titanyum kasa",
+        "A17 Pro",
+        "Action Button"
+      ],
+      "short_description": "Daha hafif premium govde ve oyun odakli silikonla yeni nesil pro cihaz.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 15 Pro genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A17 Pro ile akici performans",
+            "ProMotion Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "Gelismis hesaplamali cekim ve pro video imkanlari"
+          ],
+          "top_negative_aspects": [
+            "Uzun kullanimda agirlik ve elde yoruculuk",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 15 Pro icin en cok a17 pro ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda titanyum kasaya gecisle hafifleyen premium modelde dengeli pil ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok uzun kullanimda agirlik ve elde yoruculuk ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 15 Pro modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 15 Pro icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 15 Pro kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.69
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-19",
+      "slug": "iphone-15-pro-max",
+      "name": "iPhone 15 Pro Max",
+      "family": "iPhone 15 Series",
+      "release_year": 2023,
+      "chipset": "A17 Pro",
+      "display_type": "ProMotion Super Retina XDR OLED",
+      "display_size": "6.7\"",
+      "battery_summary": "Buyuk ekran ve guclu verimlilikle cok iyi dayaniklilik",
+      "camera_summary": "Tetraprism zoom ile serinin en esnek kamera sistemi",
+      "storage_options": [
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "weight": "221 g",
+      "notable_highlights": [
+        "5x optical zoom",
+        "Titanyum kasa",
+        "A17 Pro"
+      ],
+      "short_description": "Kamera esnekligi ve buyuk ekran isteyenler icin 15 serisinin vitrini.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 15 Pro Max genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A17 Pro ile akici performans",
+            "Buyuk ekranin medya ve okuma deneyimini guclendirmesi",
+            "Tetraprism zoom ile serinin en esnek kamera sistemi"
+          ],
+          "top_negative_aspects": [
+            "Uzun kullanimda agirlik ve elde yoruculuk",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 15 Pro Max icin en cok a17 pro ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda buyuk ekran ve guclu verimlilikle cok iyi dayaniklilik ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok uzun kullanimda agirlik ve elde yoruculuk ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 15 Pro Max modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 15 Pro Max icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.74
+          },
+          {
+            "title": "Buyuk govde ergonomisi",
+            "description": "Bazi kullanicilar iPhone 15 Pro Max modelinin tek elle kullanimda agir ve hacimli hissettirdigini belirtiyor.",
+            "confidence_score": 0.71
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-20",
+      "slug": "iphone-16",
+      "name": "iPhone 16",
+      "family": "iPhone 16 Series",
+      "release_year": 2024,
+      "chipset": "A18",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "6.1\"",
+      "battery_summary": "Verimlilik iyilesmeleriyle daha tutarli gunluk dayaniklilik",
+      "camera_summary": "Camera Control ile cekime hizli erisim sunan rafine ana paket",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "weight": "170 g",
+      "notable_highlights": [
+        "A18",
+        "Camera Control",
+        "Apple Intelligence hazirligi"
+      ],
+      "short_description": "Yeni kontrol katmani ve daha modern AI hazirligi ile guncel ana model.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 16 genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A18 ile akici performans",
+            "Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "Camera Control ile cekime hizli erisim sunan rafine ana paket"
+          ],
+          "top_negative_aspects": [
+            "Yuksek yenileme hizinin yalnizca Pro modellerde olmasi",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 16 icin en cok a18 ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda verimlilik iyilesmeleriyle daha tutarli gunluk dayaniklilik ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok yuksek yenileme hizinin yalnizca pro modellerde olmasi ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 16 modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 16 icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.65
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 16 kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.58
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-21",
+      "slug": "iphone-16-plus",
+      "name": "iPhone 16 Plus",
+      "family": "iPhone 16 Series",
+      "release_year": 2024,
+      "chipset": "A18",
+      "display_type": "Super Retina XDR OLED",
+      "display_size": "6.7\"",
+      "battery_summary": "Buyuk govdede rahat gun sonu hatta ertesi gun kullanim potansiyeli",
+      "camera_summary": "Standart seri icin guclu ama sadelestirilmis kamera deneyimi",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB"
+      ],
+      "weight": "199 g",
+      "notable_highlights": [
+        "Buyuk ekran",
+        "A18",
+        "Camera Control"
+      ],
+      "short_description": "Ana seri icinde buyuk ekran ve uzun pil arayanlar icin guncel secenek.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 16 Plus genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A18 ile akici performans",
+            "Buyuk ekranin medya ve okuma deneyimini guclendirmesi",
+            "Standart seri icin guclu ama sadelestirilmis kamera deneyimi"
+          ],
+          "top_negative_aspects": [
+            "Yuksek yenileme hizinin yalnizca Pro modellerde olmasi",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 16 Plus icin en cok a18 ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda buyuk govdede rahat gun sonu hatta ertesi gun kullanim potansiyeli ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok yuksek yenileme hizinin yalnizca pro modellerde olmasi ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 16 Plus modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 16 Plus icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.65
+          },
+          {
+            "title": "Buyuk govde ergonomisi",
+            "description": "Bazi kullanicilar iPhone 16 Plus modelinin tek elle kullanimda agir ve hacimli hissettirdigini belirtiyor.",
+            "confidence_score": 0.71
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-22",
+      "slug": "iphone-16-pro",
+      "name": "iPhone 16 Pro",
+      "family": "iPhone 16 Series",
+      "release_year": 2024,
+      "chipset": "A18 Pro",
+      "display_type": "ProMotion Super Retina XDR OLED",
+      "display_size": "6.3\"",
+      "battery_summary": "Yeni termal ve verimlilik ayarlariyla daha istikrarli premium pil davranisi",
+      "camera_summary": "Guclu video, hizli odak ve pro workflows icin optimize sistem",
+      "storage_options": [
+        "128 GB",
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "weight": "199 g",
+      "notable_highlights": [
+        "A18 Pro",
+        "6.3 in ekran",
+        "Gelistirilmis termal yapi"
+      ],
+      "short_description": "Daha buyuyen ekran ve AI-era donanimi ile guncel pro giris noktasi.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 16 Pro genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A18 Pro ile akici performans",
+            "ProMotion Super Retina XDR OLED panelin sundugu kaliteli ekran deneyimi",
+            "Guclu video, hizli odak ve pro workflows icin optimize sistem"
+          ],
+          "top_negative_aspects": [
+            "Uzun kullanimda agirlik ve elde yoruculuk",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 16 Pro icin en cok a18 pro ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda yeni termal ve verimlilik ayarlariyla daha istikrarli premium pil davranisi ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok uzun kullanimda agirlik ve elde yoruculuk ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 16 Pro modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 16 Pro icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.65
+          },
+          {
+            "title": "Isinma ve termal his",
+            "description": "Oyun, kamera veya navigasyon gibi yuksek yukte iPhone 16 Pro kasasinda hissedilir isinma yorumlari bulunuyor.",
+            "confidence_score": 0.58
+          }
+        ]
+      }
+    },
+    {
+      "id": "iphone-23",
+      "slug": "iphone-16-pro-max",
+      "name": "iPhone 16 Pro Max",
+      "family": "iPhone 16 Series",
+      "release_year": 2024,
+      "chipset": "A18 Pro",
+      "display_type": "ProMotion Super Retina XDR OLED",
+      "display_size": "6.9\"",
+      "battery_summary": "Serinin en iddiali pil ve buyuk ekran kombinasyonu",
+      "camera_summary": "En ust seviye zoom, video ve hesaplamali cekim dengesi",
+      "storage_options": [
+        "256 GB",
+        "512 GB",
+        "1 TB"
+      ],
+      "weight": "227 g",
+      "notable_highlights": [
+        "6.9 in ekran",
+        "A18 Pro",
+        "En genis pro paket"
+      ],
+      "short_description": "16 ailesinin ekran, pil ve kamera odakli tepe modeli.",
+      "analysis": {
+        "review_summary": {
+          "overall_sentiment_summary": "iPhone 16 Pro Max genel olarak olumlu algilaniyor; kullanicilar performans, kamera ve ekran tarafini guclu bulurken bazi geri bildirimler agirlik, pil siniri veya fiyat hissi uzerinde yogunlasiyor.",
+          "top_positive_aspects": [
+            "A18 Pro ile akici performans",
+            "Buyuk ekranin medya ve okuma deneyimini guclendirmesi",
+            "En ust seviye zoom, video ve hesaplamali cekim dengesi"
+          ],
+          "top_negative_aspects": [
+            "Uzun kullanimda agirlik ve elde yoruculuk",
+            "Baz model depolama seceneklerinin hizla dolabilmesi",
+            "Nesil yenilendikce fiyat performans algisinin modele gore degismesi"
+          ],
+          "evidence_snippets": [
+            {
+              "source": "Reddit digest",
+              "text": "Kullanicilar iPhone 16 Pro Max icin en cok a18 pro ile akici performans ve kamera tutarliligini ovuyor."
+            },
+            {
+              "source": "Forum synthesis",
+              "text": "Uzun donem yorumlarda serinin en iddiali pil ve buyuk ekran kombinasyonu ifadesi tekrar ediyor."
+            },
+            {
+              "source": "Review rollup",
+              "text": "Elestiriler daha cok uzun kullanimda agirlik ve elde yoruculuk ve depolama tercihleri etrafinda toplaniyor."
+            }
+          ],
+          "chatbot_ready_summary": "Topluluktan derlenen sinyaller iPhone 16 Pro Max modelinin guclu performans, guvenilir kamera ve genel kullanim dengesi sundugunu gosteriyor."
+        },
+        "common_issues": [
+          {
+            "title": "Pil sagligi kaybi algisi",
+            "description": "Kullanicilar uzun donem yogun kullanimda iPhone 16 Pro Max icin pil sagliginin beklenenden hizli dustugunu belirtebiliyor.",
+            "confidence_score": 0.65
+          },
+          {
+            "title": "Buyuk govde ergonomisi",
+            "description": "Bazi kullanicilar iPhone 16 Pro Max modelinin tek elle kullanimda agir ve hacimli hissettirdigini belirtiyor.",
+            "confidence_score": 0.71
+          }
+        ]
+      }
+    }
+  ]
+}

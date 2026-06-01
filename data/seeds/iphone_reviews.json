@@ -1,0 +1,4614 @@
+{
+  "reviews": [
+    {
+      "id": "review-iphone-11-01",
+      "model": "iPhone 11",
+      "rating": 4,
+      "text": "iPhone 11 gunluk kullanimda cok akici hissettiriyor. A13 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-21T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-02",
+      "model": "iPhone 11",
+      "rating": 5,
+      "text": "Icerik tuketirken iPhone 11 ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-03",
+      "model": "iPhone 11",
+      "rating": 5,
+      "text": "iPhone 11 kamerasi gunluk cekimlerde guven veriyor. Cift arka kamera ile dengeli fotograf ve video paketi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-04",
+      "model": "iPhone 11",
+      "rating": 4,
+      "text": "Gun sonunda iPhone 11 hala rahat kaliyor; ozellikle Gunluk kullanimda rahat bir gunu cikarabilen pil performansi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-05",
+      "model": "iPhone 11",
+      "rating": 5,
+      "text": "iPhone 11 yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-03-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-06",
+      "model": "iPhone 11",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 11 oldukca hizli. A13 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-07",
+      "model": "iPhone 11",
+      "rating": 4,
+      "text": "iPhone 11 ekran kalitesi bu sinifta hala cok iyi. Liquid Retina HD 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-08",
+      "model": "iPhone 11",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 11 bekledigimden daha iyi. Cift arka kamera ile dengeli fotograf ve video paketi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-09",
+      "model": "iPhone 11",
+      "rating": 5,
+      "text": "iPhone 11 pil tarafinda bekledigimden daha tutarli. Gunluk kullanimda rahat bir gunu cikarabilen pil performansi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-10",
+      "model": "iPhone 11",
+      "rating": 3,
+      "text": "iPhone 11 iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-06-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-11",
+      "model": "iPhone 11",
+      "rating": 3,
+      "text": "Gunluk kullanimda rahat bir gunu cikarabilen pil performansi; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-07-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-12",
+      "model": "iPhone 11",
+      "rating": 4,
+      "text": "iPhone 11 kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-13",
+      "model": "iPhone 11",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 11 ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-14",
+      "model": "iPhone 11",
+      "rating": 2,
+      "text": "iPhone 11 yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-08-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-15",
+      "model": "iPhone 11",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 11 elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-09-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-16",
+      "model": "iPhone 11",
+      "rating": 2,
+      "text": "iPhone 11 iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-17",
+      "model": "iPhone 11",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 11 icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-18",
+      "model": "iPhone 11",
+      "rating": 2,
+      "text": "iPhone 11 kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-01",
+      "model": "iPhone 11 Pro",
+      "rating": 4,
+      "text": "iPhone 11 Pro kamerasi gunluk cekimlerde guven veriyor. Uc arka kamera ile premium kadraj esnekligi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-21T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-02",
+      "model": "iPhone 11 Pro",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 11 Pro oldukca hizli. A13 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-03",
+      "model": "iPhone 11 Pro",
+      "rating": 5,
+      "text": "iPhone 11 Pro ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 5.8\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-04",
+      "model": "iPhone 11 Pro",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 11 Pro bekledigimden daha iyi. Uc arka kamera ile premium kadraj esnekligi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-05",
+      "model": "iPhone 11 Pro",
+      "rating": 5,
+      "text": "iPhone 11 Pro pil tarafinda bekledigimden daha tutarli. Kompakt sinifa gore guclu dayaniklilik.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-03-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-06",
+      "model": "iPhone 11 Pro",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 11 Pro ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-07",
+      "model": "iPhone 11 Pro",
+      "rating": 4,
+      "text": "iPhone 11 Pro kamerasi gunluk cekimlerde guven veriyor. Uc arka kamera ile premium kadraj esnekligi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-08",
+      "model": "iPhone 11 Pro",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 11 Pro oldukca hizli. A13 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-09",
+      "model": "iPhone 11 Pro",
+      "rating": 5,
+      "text": "iPhone 11 Pro ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 5.8\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-10",
+      "model": "iPhone 11 Pro",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 11 Pro bekledigimden daha iyi. Uc arka kamera ile premium kadraj esnekligi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-11",
+      "model": "iPhone 11 Pro",
+      "rating": 3,
+      "text": "iPhone 11 Pro iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-07-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-12",
+      "model": "iPhone 11 Pro",
+      "rating": 3,
+      "text": "Kompakt sinifa gore guclu dayaniklilik; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-13",
+      "model": "iPhone 11 Pro",
+      "rating": 4,
+      "text": "iPhone 11 Pro kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-14",
+      "model": "iPhone 11 Pro",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 11 Pro ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-08-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-15",
+      "model": "iPhone 11 Pro",
+      "rating": 2,
+      "text": "iPhone 11 Pro yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-09-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-16",
+      "model": "iPhone 11 Pro",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 11 Pro elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-17",
+      "model": "iPhone 11 Pro",
+      "rating": 2,
+      "text": "iPhone 11 Pro iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-18",
+      "model": "iPhone 11 Pro",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 11 Pro icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-19",
+      "model": "iPhone 11 Pro",
+      "rating": 2,
+      "text": "iPhone 11 Pro kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-01",
+      "model": "iPhone 11 Pro Max",
+      "rating": 4,
+      "text": "iPhone 11 Pro Max kamerasi gunluk cekimlerde guven veriyor. Uc arka kamera ile guclu video ve zoom deneyimi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-21T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-02",
+      "model": "iPhone 11 Pro Max",
+      "rating": 5,
+      "text": "Gun sonunda iPhone 11 Pro Max hala rahat kaliyor; ozellikle Serisinin en uzun giden pillerinden biri.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-03",
+      "model": "iPhone 11 Pro Max",
+      "rating": 5,
+      "text": "iPhone 11 Pro Max gunluk kullanimda cok akici hissettiriyor. A13 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-04",
+      "model": "iPhone 11 Pro Max",
+      "rating": 4,
+      "text": "Icerik tuketirken iPhone 11 Pro Max ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-05",
+      "model": "iPhone 11 Pro Max",
+      "rating": 5,
+      "text": "iPhone 11 Pro Max kamerasi gunluk cekimlerde guven veriyor. Uc arka kamera ile guclu video ve zoom deneyimi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-03-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-06",
+      "model": "iPhone 11 Pro Max",
+      "rating": 5,
+      "text": "Gun sonunda iPhone 11 Pro Max hala rahat kaliyor; ozellikle Serisinin en uzun giden pillerinden biri.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-07",
+      "model": "iPhone 11 Pro Max",
+      "rating": 4,
+      "text": "iPhone 11 Pro Max yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-08",
+      "model": "iPhone 11 Pro Max",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 11 Pro Max bekledigimden daha iyi. Uc arka kamera ile guclu video ve zoom deneyimi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-09",
+      "model": "iPhone 11 Pro Max",
+      "rating": 5,
+      "text": "iPhone 11 Pro Max pil tarafinda bekledigimden daha tutarli. Serisinin en uzun giden pillerinden biri.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-10",
+      "model": "iPhone 11 Pro Max",
+      "rating": 4,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 11 Pro Max oldukca hizli. A13 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-11",
+      "model": "iPhone 11 Pro Max",
+      "rating": 5,
+      "text": "iPhone 11 Pro Max ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.5\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-07-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-12",
+      "model": "iPhone 11 Pro Max",
+      "rating": 3,
+      "text": "iPhone 11 Pro Max iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-13",
+      "model": "iPhone 11 Pro Max",
+      "rating": 3,
+      "text": "Serisinin en uzun giden pillerinden biri; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-14",
+      "model": "iPhone 11 Pro Max",
+      "rating": 4,
+      "text": "iPhone 11 Pro Max kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-08-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-15",
+      "model": "iPhone 11 Pro Max",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 11 Pro Max ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-09-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-16",
+      "model": "iPhone 11 Pro Max",
+      "rating": 2,
+      "text": "iPhone 11 Pro Max yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-17",
+      "model": "iPhone 11 Pro Max",
+      "rating": 3,
+      "text": "Performansi guclu olsa da iPhone 11 Pro Max icin fiyat tarafi halen can sikabiliyor.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-18",
+      "model": "iPhone 11 Pro Max",
+      "rating": 2,
+      "text": "iPhone 11 Pro Max baslangic depolamasi bana hizli doluyor gibi geldi.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-19",
+      "model": "iPhone 11 Pro Max",
+      "rating": 3,
+      "text": "Ergonomi tarafinda iPhone 11 Pro Max herkese hitap etmiyor; elde uzun sure tasimasi zorlayabiliyor.",
+      "aspect": "durability",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-11-pro-max-20",
+      "model": "iPhone 11 Pro Max",
+      "rating": 2,
+      "text": "iPhone 11 Pro Max kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-12-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-01",
+      "model": "iPhone 12",
+      "rating": 4,
+      "text": "iPhone 12 gunluk kullanimda cok akici hissettiriyor. A14 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-22T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-02",
+      "model": "iPhone 12",
+      "rating": 5,
+      "text": "Icerik tuketirken iPhone 12 ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-08T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-03",
+      "model": "iPhone 12",
+      "rating": 5,
+      "text": "iPhone 12 kamerasi gunluk cekimlerde guven veriyor. Gece cekimlerinde daha guclu cift kamera sistemi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-04",
+      "model": "iPhone 12",
+      "rating": 4,
+      "text": "Gun sonunda iPhone 12 hala rahat kaliyor; ozellikle 5G kullaniminda orta-iyi seviye pil dengesi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-05",
+      "model": "iPhone 12",
+      "rating": 5,
+      "text": "iPhone 12 yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-03-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-06",
+      "model": "iPhone 12",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 12 oldukca hizli. A14 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-07",
+      "model": "iPhone 12",
+      "rating": 4,
+      "text": "iPhone 12 ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-04T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-08",
+      "model": "iPhone 12",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 12 bekledigimden daha iyi. Gece cekimlerinde daha guclu cift kamera sistemi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-21T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-09",
+      "model": "iPhone 12",
+      "rating": 5,
+      "text": "iPhone 12 pil tarafinda bekledigimden daha tutarli. 5G kullaniminda orta-iyi seviye pil dengesi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-10",
+      "model": "iPhone 12",
+      "rating": 3,
+      "text": "iPhone 12 iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-06-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-11",
+      "model": "iPhone 12",
+      "rating": 3,
+      "text": "5G kullaniminda orta-iyi seviye pil dengesi; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-07-11T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-12",
+      "model": "iPhone 12",
+      "rating": 4,
+      "text": "iPhone 12 kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-28T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-13",
+      "model": "iPhone 12",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 12 ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-14",
+      "model": "iPhone 12",
+      "rating": 2,
+      "text": "iPhone 12 yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-08-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-15",
+      "model": "iPhone 12",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 12 elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-09-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-16",
+      "model": "iPhone 12",
+      "rating": 2,
+      "text": "iPhone 12 iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-04T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-17",
+      "model": "iPhone 12",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 12 icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-21T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-18",
+      "model": "iPhone 12",
+      "rating": 2,
+      "text": "iPhone 12 kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-01",
+      "model": "iPhone 12 mini",
+      "rating": 4,
+      "text": "iPhone 12 mini gunluk kullanimda cok akici hissettiriyor. A14 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-22T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-02",
+      "model": "iPhone 12 mini",
+      "rating": 5,
+      "text": "Icerik tuketirken iPhone 12 mini ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-08T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-03",
+      "model": "iPhone 12 mini",
+      "rating": 5,
+      "text": "iPhone 12 mini kamerasi gunluk cekimlerde guven veriyor. Mini boyutta tam iPhone 12 kamera deneyimi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-04",
+      "model": "iPhone 12 mini",
+      "rating": 4,
+      "text": "Gun sonunda iPhone 12 mini hala rahat kaliyor; ozellikle Kompakt form faktoru nedeniyle sinirli ama verimli pil davranisi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-05",
+      "model": "iPhone 12 mini",
+      "rating": 5,
+      "text": "iPhone 12 mini yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-03-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-06",
+      "model": "iPhone 12 mini",
+      "rating": 5,
+      "text": "Govde kalitesi sayesinde iPhone 12 mini uzun omurlu bir cihaz izlenimi veriyor.",
+      "aspect": "durability",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-07",
+      "model": "iPhone 12 mini",
+      "rating": 4,
+      "text": "iPhone 12 mini gunluk kullanimda cok akici hissettiriyor. A14 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-04T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-08",
+      "model": "iPhone 12 mini",
+      "rating": 5,
+      "text": "Icerik tuketirken iPhone 12 mini ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-21T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-09",
+      "model": "iPhone 12 mini",
+      "rating": 3,
+      "text": "iPhone 12 mini iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-06-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-10",
+      "model": "iPhone 12 mini",
+      "rating": 3,
+      "text": "Kompakt form faktoru nedeniyle sinirli ama verimli pil davranisi; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-06-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-11",
+      "model": "iPhone 12 mini",
+      "rating": 4,
+      "text": "iPhone 12 mini kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-07-11T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-12",
+      "model": "iPhone 12 mini",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 12 mini ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-28T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-13",
+      "model": "iPhone 12 mini",
+      "rating": 2,
+      "text": "iPhone 12 mini yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-08-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-14",
+      "model": "iPhone 12 mini",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 12 mini elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-08-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-15",
+      "model": "iPhone 12 mini",
+      "rating": 2,
+      "text": "iPhone 12 mini iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-09-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-16",
+      "model": "iPhone 12 mini",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 12 mini icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-04T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-17",
+      "model": "iPhone 12 mini",
+      "rating": 2,
+      "text": "iPhone 12 mini kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-21T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-18",
+      "model": "iPhone 12 mini",
+      "rating": 3,
+      "text": "iPhone 12 mini tarafinda pil beklentim biraz daha yuksekti; ozellikle yogun gunlerde yetmiyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-mini-19",
+      "model": "iPhone 12 mini",
+      "rating": 2,
+      "text": "iPhone 12 mini oyun, kamera ve navigasyon gibi yuklerde belirgin isinabiliyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-01",
+      "model": "iPhone 12 Pro",
+      "rating": 4,
+      "text": "iPhone 12 Pro kamerasi gunluk cekimlerde guven veriyor. LiDAR destekli gelismis pro kamera paketi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-22T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-02",
+      "model": "iPhone 12 Pro",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 12 Pro oldukca hizli. A14 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-08T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-03",
+      "model": "iPhone 12 Pro",
+      "rating": 5,
+      "text": "iPhone 12 Pro ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-04",
+      "model": "iPhone 12 Pro",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 12 Pro bekledigimden daha iyi. LiDAR destekli gelismis pro kamera paketi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-05",
+      "model": "iPhone 12 Pro",
+      "rating": 5,
+      "text": "iPhone 12 Pro pil tarafinda bekledigimden daha tutarli. Premium segment icin istikrarli gun sonu performansi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-03-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-06",
+      "model": "iPhone 12 Pro",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 12 Pro ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-07",
+      "model": "iPhone 12 Pro",
+      "rating": 4,
+      "text": "iPhone 12 Pro kamerasi gunluk cekimlerde guven veriyor. LiDAR destekli gelismis pro kamera paketi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-04T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-08",
+      "model": "iPhone 12 Pro",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 12 Pro oldukca hizli. A14 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-21T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-09",
+      "model": "iPhone 12 Pro",
+      "rating": 5,
+      "text": "iPhone 12 Pro ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-10",
+      "model": "iPhone 12 Pro",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 12 Pro bekledigimden daha iyi. LiDAR destekli gelismis pro kamera paketi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-11",
+      "model": "iPhone 12 Pro",
+      "rating": 3,
+      "text": "iPhone 12 Pro iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-07-11T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-12",
+      "model": "iPhone 12 Pro",
+      "rating": 3,
+      "text": "Premium segment icin istikrarli gun sonu performansi; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-28T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-13",
+      "model": "iPhone 12 Pro",
+      "rating": 4,
+      "text": "iPhone 12 Pro kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-14",
+      "model": "iPhone 12 Pro",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 12 Pro ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-08-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-15",
+      "model": "iPhone 12 Pro",
+      "rating": 2,
+      "text": "iPhone 12 Pro yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-09-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-16",
+      "model": "iPhone 12 Pro",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 12 Pro elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-04T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-17",
+      "model": "iPhone 12 Pro",
+      "rating": 2,
+      "text": "iPhone 12 Pro iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-21T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-18",
+      "model": "iPhone 12 Pro",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 12 Pro icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-19",
+      "model": "iPhone 12 Pro",
+      "rating": 2,
+      "text": "iPhone 12 Pro kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-01",
+      "model": "iPhone 12 Pro Max",
+      "rating": 4,
+      "text": "iPhone 12 Pro Max kamerasi gunluk cekimlerde guven veriyor. Daha buyuk sensor avantajiyla daha guclu dusuk isik performansi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-22T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-02",
+      "model": "iPhone 12 Pro Max",
+      "rating": 5,
+      "text": "Gun sonunda iPhone 12 Pro Max hala rahat kaliyor; ozellikle Serinin en guclu pil performansi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-08T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-03",
+      "model": "iPhone 12 Pro Max",
+      "rating": 5,
+      "text": "iPhone 12 Pro Max gunluk kullanimda cok akici hissettiriyor. A14 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-04",
+      "model": "iPhone 12 Pro Max",
+      "rating": 4,
+      "text": "Icerik tuketirken iPhone 12 Pro Max ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-05",
+      "model": "iPhone 12 Pro Max",
+      "rating": 5,
+      "text": "iPhone 12 Pro Max kamerasi gunluk cekimlerde guven veriyor. Daha buyuk sensor avantajiyla daha guclu dusuk isik performansi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-03-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-06",
+      "model": "iPhone 12 Pro Max",
+      "rating": 5,
+      "text": "Gun sonunda iPhone 12 Pro Max hala rahat kaliyor; ozellikle Serinin en guclu pil performansi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-07",
+      "model": "iPhone 12 Pro Max",
+      "rating": 4,
+      "text": "iPhone 12 Pro Max yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-04T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-08",
+      "model": "iPhone 12 Pro Max",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 12 Pro Max bekledigimden daha iyi. Daha buyuk sensor avantajiyla daha guclu dusuk isik performansi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-21T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-09",
+      "model": "iPhone 12 Pro Max",
+      "rating": 5,
+      "text": "iPhone 12 Pro Max pil tarafinda bekledigimden daha tutarli. Serinin en guclu pil performansi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-10",
+      "model": "iPhone 12 Pro Max",
+      "rating": 4,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 12 Pro Max oldukca hizli. A14 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-11",
+      "model": "iPhone 12 Pro Max",
+      "rating": 5,
+      "text": "iPhone 12 Pro Max ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.7\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-07-11T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-12",
+      "model": "iPhone 12 Pro Max",
+      "rating": 3,
+      "text": "iPhone 12 Pro Max iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-28T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-13",
+      "model": "iPhone 12 Pro Max",
+      "rating": 3,
+      "text": "Serinin en guclu pil performansi; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-14",
+      "model": "iPhone 12 Pro Max",
+      "rating": 4,
+      "text": "iPhone 12 Pro Max kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-08-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-15",
+      "model": "iPhone 12 Pro Max",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 12 Pro Max ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-09-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-16",
+      "model": "iPhone 12 Pro Max",
+      "rating": 2,
+      "text": "iPhone 12 Pro Max yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-04T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-17",
+      "model": "iPhone 12 Pro Max",
+      "rating": 3,
+      "text": "Performansi guclu olsa da iPhone 12 Pro Max icin fiyat tarafi halen can sikabiliyor.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-21T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-18",
+      "model": "iPhone 12 Pro Max",
+      "rating": 2,
+      "text": "iPhone 12 Pro Max baslangic depolamasi bana hizli doluyor gibi geldi.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-19",
+      "model": "iPhone 12 Pro Max",
+      "rating": 3,
+      "text": "Ergonomi tarafinda iPhone 12 Pro Max herkese hitap etmiyor; elde uzun sure tasimasi zorlayabiliyor.",
+      "aspect": "durability",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-12-pro-max-20",
+      "model": "iPhone 12 Pro Max",
+      "rating": 2,
+      "text": "iPhone 12 Pro Max yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-12-11T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-01",
+      "model": "iPhone 13",
+      "rating": 4,
+      "text": "iPhone 13 gunluk kullanimda cok akici hissettiriyor. A15 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-02",
+      "model": "iPhone 13",
+      "rating": 5,
+      "text": "Icerik tuketirken iPhone 13 ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-03",
+      "model": "iPhone 13",
+      "rating": 5,
+      "text": "iPhone 13 kamerasi gunluk cekimlerde guven veriyor. Sensor shift sabitleme ile daha guclu ana kamera.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-04",
+      "model": "iPhone 13",
+      "rating": 4,
+      "text": "Gun sonunda iPhone 13 hala rahat kaliyor; ozellikle 11 ve 12'ye gore belirgin iyilesen pil sureleri.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-15T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-05",
+      "model": "iPhone 13",
+      "rating": 5,
+      "text": "iPhone 13 yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-04-01T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-06",
+      "model": "iPhone 13",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 13 oldukca hizli. A15 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-18T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-07",
+      "model": "iPhone 13",
+      "rating": 4,
+      "text": "iPhone 13 ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-05T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-08",
+      "model": "iPhone 13",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 13 bekledigimden daha iyi. Sensor shift sabitleme ile daha guclu ana kamera.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-22T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-09",
+      "model": "iPhone 13",
+      "rating": 5,
+      "text": "iPhone 13 pil tarafinda bekledigimden daha tutarli. 11 ve 12'ye gore belirgin iyilesen pil sureleri.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-08T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-10",
+      "model": "iPhone 13",
+      "rating": 3,
+      "text": "iPhone 13 iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-06-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-11",
+      "model": "iPhone 13",
+      "rating": 3,
+      "text": "11 ve 12'ye gore belirgin iyilesen pil sureleri; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-07-12T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-12",
+      "model": "iPhone 13",
+      "rating": 4,
+      "text": "iPhone 13 kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-29T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-13",
+      "model": "iPhone 13",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 13 ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-15T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-14",
+      "model": "iPhone 13",
+      "rating": 2,
+      "text": "iPhone 13 yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-09-01T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-15",
+      "model": "iPhone 13",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 13 elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-09-18T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-16",
+      "model": "iPhone 13",
+      "rating": 2,
+      "text": "iPhone 13 iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-05T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-17",
+      "model": "iPhone 13",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 13 icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-22T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-18",
+      "model": "iPhone 13",
+      "rating": 2,
+      "text": "iPhone 13 kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-08T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-01",
+      "model": "iPhone 13 mini",
+      "rating": 4,
+      "text": "iPhone 13 mini gunluk kullanimda cok akici hissettiriyor. A15 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-02",
+      "model": "iPhone 13 mini",
+      "rating": 5,
+      "text": "Icerik tuketirken iPhone 13 mini ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-03",
+      "model": "iPhone 13 mini",
+      "rating": 5,
+      "text": "iPhone 13 mini kamerasi gunluk cekimlerde guven veriyor. Kompakt boyutta guclu cift kamera.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-04",
+      "model": "iPhone 13 mini",
+      "rating": 4,
+      "text": "Gun sonunda iPhone 13 mini hala rahat kaliyor; ozellikle Mini segment icinde anlamli sekilde iyilesmis dayaniklilik.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-15T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-05",
+      "model": "iPhone 13 mini",
+      "rating": 5,
+      "text": "iPhone 13 mini yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-04-01T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-06",
+      "model": "iPhone 13 mini",
+      "rating": 5,
+      "text": "Govde kalitesi sayesinde iPhone 13 mini uzun omurlu bir cihaz izlenimi veriyor.",
+      "aspect": "durability",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-18T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-07",
+      "model": "iPhone 13 mini",
+      "rating": 4,
+      "text": "iPhone 13 mini gunluk kullanimda cok akici hissettiriyor. A15 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-05T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-08",
+      "model": "iPhone 13 mini",
+      "rating": 5,
+      "text": "Icerik tuketirken iPhone 13 mini ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-22T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-09",
+      "model": "iPhone 13 mini",
+      "rating": 3,
+      "text": "iPhone 13 mini iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-06-08T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-10",
+      "model": "iPhone 13 mini",
+      "rating": 3,
+      "text": "Mini segment icinde anlamli sekilde iyilesmis dayaniklilik; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-06-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-11",
+      "model": "iPhone 13 mini",
+      "rating": 4,
+      "text": "iPhone 13 mini kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-07-12T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-12",
+      "model": "iPhone 13 mini",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 13 mini ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-29T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-13",
+      "model": "iPhone 13 mini",
+      "rating": 2,
+      "text": "iPhone 13 mini yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-08-15T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-14",
+      "model": "iPhone 13 mini",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 13 mini elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-09-01T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-15",
+      "model": "iPhone 13 mini",
+      "rating": 2,
+      "text": "iPhone 13 mini iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-09-18T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-16",
+      "model": "iPhone 13 mini",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 13 mini icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-05T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-17",
+      "model": "iPhone 13 mini",
+      "rating": 2,
+      "text": "iPhone 13 mini kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-22T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-18",
+      "model": "iPhone 13 mini",
+      "rating": 3,
+      "text": "iPhone 13 mini tarafinda pil beklentim biraz daha yuksekti; ozellikle yogun gunlerde yetmiyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-08T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-mini-19",
+      "model": "iPhone 13 mini",
+      "rating": 2,
+      "text": "iPhone 13 mini oyun, kamera ve navigasyon gibi yuklerde belirgin isinabiliyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-01",
+      "model": "iPhone 13 Pro",
+      "rating": 4,
+      "text": "iPhone 13 Pro kamerasi gunluk cekimlerde guven veriyor. Makro ve sinematik video dahil cok yonlu pro kamera.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-02",
+      "model": "iPhone 13 Pro",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 13 Pro oldukca hizli. A15 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-03",
+      "model": "iPhone 13 Pro",
+      "rating": 5,
+      "text": "iPhone 13 Pro ekran kalitesi bu sinifta hala cok iyi. ProMotion Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-04",
+      "model": "iPhone 13 Pro",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 13 Pro bekledigimden daha iyi. Makro ve sinematik video dahil cok yonlu pro kamera.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-15T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-05",
+      "model": "iPhone 13 Pro",
+      "rating": 5,
+      "text": "iPhone 13 Pro pil tarafinda bekledigimden daha tutarli. 120 Hz ekrana ragmen guclu optimizasyonla gunu rahat tamamlama.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-04-01T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-06",
+      "model": "iPhone 13 Pro",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 13 Pro ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-18T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-07",
+      "model": "iPhone 13 Pro",
+      "rating": 4,
+      "text": "iPhone 13 Pro kamerasi gunluk cekimlerde guven veriyor. Makro ve sinematik video dahil cok yonlu pro kamera.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-05T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-08",
+      "model": "iPhone 13 Pro",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 13 Pro oldukca hizli. A15 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-22T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-09",
+      "model": "iPhone 13 Pro",
+      "rating": 5,
+      "text": "iPhone 13 Pro ekran kalitesi bu sinifta hala cok iyi. ProMotion Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-08T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-10",
+      "model": "iPhone 13 Pro",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 13 Pro bekledigimden daha iyi. Makro ve sinematik video dahil cok yonlu pro kamera.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-11",
+      "model": "iPhone 13 Pro",
+      "rating": 3,
+      "text": "iPhone 13 Pro iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-07-12T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-12",
+      "model": "iPhone 13 Pro",
+      "rating": 3,
+      "text": "120 Hz ekrana ragmen guclu optimizasyonla gunu rahat tamamlama; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-29T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-13",
+      "model": "iPhone 13 Pro",
+      "rating": 4,
+      "text": "iPhone 13 Pro kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-15T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-14",
+      "model": "iPhone 13 Pro",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 13 Pro ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-09-01T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-15",
+      "model": "iPhone 13 Pro",
+      "rating": 2,
+      "text": "iPhone 13 Pro yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-09-18T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-16",
+      "model": "iPhone 13 Pro",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 13 Pro elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-05T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-17",
+      "model": "iPhone 13 Pro",
+      "rating": 2,
+      "text": "iPhone 13 Pro iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-22T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-18",
+      "model": "iPhone 13 Pro",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 13 Pro icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-08T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-19",
+      "model": "iPhone 13 Pro",
+      "rating": 2,
+      "text": "iPhone 13 Pro kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-01",
+      "model": "iPhone 13 Pro Max",
+      "rating": 4,
+      "text": "iPhone 13 Pro Max kamerasi gunluk cekimlerde guven veriyor. Pro seviyede video ve buyuk ekran avantajini birlestiriyor.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-02",
+      "model": "iPhone 13 Pro Max",
+      "rating": 5,
+      "text": "Gun sonunda iPhone 13 Pro Max hala rahat kaliyor; ozellikle Apple tarafinda referans sayilan uzun pil omru.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-03",
+      "model": "iPhone 13 Pro Max",
+      "rating": 5,
+      "text": "iPhone 13 Pro Max gunluk kullanimda cok akici hissettiriyor. A15 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-04",
+      "model": "iPhone 13 Pro Max",
+      "rating": 4,
+      "text": "Icerik tuketirken iPhone 13 Pro Max ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-15T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-05",
+      "model": "iPhone 13 Pro Max",
+      "rating": 5,
+      "text": "iPhone 13 Pro Max kamerasi gunluk cekimlerde guven veriyor. Pro seviyede video ve buyuk ekran avantajini birlestiriyor.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-04-01T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-06",
+      "model": "iPhone 13 Pro Max",
+      "rating": 5,
+      "text": "Gun sonunda iPhone 13 Pro Max hala rahat kaliyor; ozellikle Apple tarafinda referans sayilan uzun pil omru.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-18T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-07",
+      "model": "iPhone 13 Pro Max",
+      "rating": 4,
+      "text": "iPhone 13 Pro Max yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-05T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-08",
+      "model": "iPhone 13 Pro Max",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 13 Pro Max bekledigimden daha iyi. Pro seviyede video ve buyuk ekran avantajini birlestiriyor.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-22T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-09",
+      "model": "iPhone 13 Pro Max",
+      "rating": 5,
+      "text": "iPhone 13 Pro Max pil tarafinda bekledigimden daha tutarli. Apple tarafinda referans sayilan uzun pil omru.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-08T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-10",
+      "model": "iPhone 13 Pro Max",
+      "rating": 4,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 13 Pro Max oldukca hizli. A15 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-11",
+      "model": "iPhone 13 Pro Max",
+      "rating": 5,
+      "text": "iPhone 13 Pro Max ekran kalitesi bu sinifta hala cok iyi. ProMotion Super Retina XDR OLED 6.7\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-07-12T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-12",
+      "model": "iPhone 13 Pro Max",
+      "rating": 3,
+      "text": "iPhone 13 Pro Max iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-29T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-13",
+      "model": "iPhone 13 Pro Max",
+      "rating": 3,
+      "text": "Apple tarafinda referans sayilan uzun pil omru; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-15T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-14",
+      "model": "iPhone 13 Pro Max",
+      "rating": 4,
+      "text": "iPhone 13 Pro Max kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-09-01T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-15",
+      "model": "iPhone 13 Pro Max",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 13 Pro Max ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-09-18T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-16",
+      "model": "iPhone 13 Pro Max",
+      "rating": 2,
+      "text": "iPhone 13 Pro Max yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-05T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-17",
+      "model": "iPhone 13 Pro Max",
+      "rating": 3,
+      "text": "Performansi guclu olsa da iPhone 13 Pro Max icin fiyat tarafi halen can sikabiliyor.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-22T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-18",
+      "model": "iPhone 13 Pro Max",
+      "rating": 2,
+      "text": "iPhone 13 Pro Max baslangic depolamasi bana hizli doluyor gibi geldi.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-08T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-19",
+      "model": "iPhone 13 Pro Max",
+      "rating": 3,
+      "text": "Ergonomi tarafinda iPhone 13 Pro Max herkese hitap etmiyor; elde uzun sure tasimasi zorlayabiliyor.",
+      "aspect": "durability",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-13-pro-max-20",
+      "model": "iPhone 13 Pro Max",
+      "rating": 2,
+      "text": "iPhone 13 Pro Max yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-12-12T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-01",
+      "model": "iPhone 14",
+      "rating": 4,
+      "text": "iPhone 14 gunluk kullanimda cok akici hissettiriyor. A15 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-02",
+      "model": "iPhone 14",
+      "rating": 5,
+      "text": "Icerik tuketirken iPhone 14 ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-03",
+      "model": "iPhone 14",
+      "rating": 5,
+      "text": "iPhone 14 kamerasi gunluk cekimlerde guven veriyor. Photonic Engine ile daha guclu dusuk isik ciktilari.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-04",
+      "model": "iPhone 14",
+      "rating": 4,
+      "text": "Gun sonunda iPhone 14 hala rahat kaliyor; ozellikle Gundelik kullanimda tutarli ve ongorulebilir pil performansi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-05",
+      "model": "iPhone 14",
+      "rating": 5,
+      "text": "iPhone 14 yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-04-02T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-06",
+      "model": "iPhone 14",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 14 oldukca hizli. A15 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-19T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-07",
+      "model": "iPhone 14",
+      "rating": 4,
+      "text": "iPhone 14 ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-08",
+      "model": "iPhone 14",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 14 bekledigimden daha iyi. Photonic Engine ile daha guclu dusuk isik ciktilari.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-09",
+      "model": "iPhone 14",
+      "rating": 5,
+      "text": "iPhone 14 pil tarafinda bekledigimden daha tutarli. Gundelik kullanimda tutarli ve ongorulebilir pil performansi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-10",
+      "model": "iPhone 14",
+      "rating": 4,
+      "text": "iOS deneyimi iPhone 14 ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-11",
+      "model": "iPhone 14",
+      "rating": 3,
+      "text": "iPhone 14 iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-07-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-12",
+      "model": "iPhone 14",
+      "rating": 3,
+      "text": "Gundelik kullanimda tutarli ve ongorulebilir pil performansi; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-13",
+      "model": "iPhone 14",
+      "rating": 4,
+      "text": "iPhone 14 kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-14",
+      "model": "iPhone 14",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 14 ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-09-02T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-15",
+      "model": "iPhone 14",
+      "rating": 2,
+      "text": "iPhone 14 yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-09-19T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-16",
+      "model": "iPhone 14",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 14 elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-17",
+      "model": "iPhone 14",
+      "rating": 2,
+      "text": "iPhone 14 iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-18",
+      "model": "iPhone 14",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 14 icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-19",
+      "model": "iPhone 14",
+      "rating": 2,
+      "text": "iPhone 14 yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-01",
+      "model": "iPhone 14 Plus",
+      "rating": 4,
+      "text": "iPhone 14 Plus pil tarafinda bekledigimden daha tutarli. Pro Max olmadan buyuk ekran ve uzun pil isteyenlere hitap ediyor.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-02",
+      "model": "iPhone 14 Plus",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 14 Plus oldukca hizli. A15 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-03",
+      "model": "iPhone 14 Plus",
+      "rating": 5,
+      "text": "iPhone 14 Plus ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.7\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-04",
+      "model": "iPhone 14 Plus",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 14 Plus bekledigimden daha iyi. Ana kamera deneyimi buyuk ekran formatinda sunuluyor.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-05",
+      "model": "iPhone 14 Plus",
+      "rating": 5,
+      "text": "iPhone 14 Plus pil tarafinda bekledigimden daha tutarli. Pro Max olmadan buyuk ekran ve uzun pil isteyenlere hitap ediyor.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-04-02T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-06",
+      "model": "iPhone 14 Plus",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 14 Plus ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-19T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-07",
+      "model": "iPhone 14 Plus",
+      "rating": 4,
+      "text": "iPhone 14 Plus pil tarafinda bekledigimden daha tutarli. Pro Max olmadan buyuk ekran ve uzun pil isteyenlere hitap ediyor.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-08",
+      "model": "iPhone 14 Plus",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 14 Plus oldukca hizli. A15 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-09",
+      "model": "iPhone 14 Plus",
+      "rating": 5,
+      "text": "iPhone 14 Plus ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.7\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-10",
+      "model": "iPhone 14 Plus",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 14 Plus bekledigimden daha iyi. Ana kamera deneyimi buyuk ekran formatinda sunuluyor.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-11",
+      "model": "iPhone 14 Plus",
+      "rating": 5,
+      "text": "iPhone 14 Plus pil tarafinda bekledigimden daha tutarli. Pro Max olmadan buyuk ekran ve uzun pil isteyenlere hitap ediyor.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-07-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-12",
+      "model": "iPhone 14 Plus",
+      "rating": 3,
+      "text": "iPhone 14 Plus iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-13",
+      "model": "iPhone 14 Plus",
+      "rating": 3,
+      "text": "Pro Max olmadan buyuk ekran ve uzun pil isteyenlere hitap ediyor; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-14",
+      "model": "iPhone 14 Plus",
+      "rating": 4,
+      "text": "iPhone 14 Plus kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-09-02T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-15",
+      "model": "iPhone 14 Plus",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 14 Plus ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-09-19T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-16",
+      "model": "iPhone 14 Plus",
+      "rating": 2,
+      "text": "iPhone 14 Plus yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-17",
+      "model": "iPhone 14 Plus",
+      "rating": 3,
+      "text": "Performansi guclu olsa da iPhone 14 Plus icin fiyat tarafi halen can sikabiliyor.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-18",
+      "model": "iPhone 14 Plus",
+      "rating": 2,
+      "text": "iPhone 14 Plus baslangic depolamasi bana hizli doluyor gibi geldi.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-19",
+      "model": "iPhone 14 Plus",
+      "rating": 3,
+      "text": "Ergonomi tarafinda iPhone 14 Plus herkese hitap etmiyor; elde uzun sure tasimasi zorlayabiliyor.",
+      "aspect": "durability",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-plus-20",
+      "model": "iPhone 14 Plus",
+      "rating": 2,
+      "text": "iPhone 14 Plus kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-12-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-01",
+      "model": "iPhone 14 Pro",
+      "rating": 4,
+      "text": "iPhone 14 Pro kamerasi gunluk cekimlerde guven veriyor. 48 MP ana sensor ile daha detayli cekim kabiliyeti.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-02",
+      "model": "iPhone 14 Pro",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 14 Pro oldukca hizli. A16 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-03",
+      "model": "iPhone 14 Pro",
+      "rating": 5,
+      "text": "iPhone 14 Pro ekran kalitesi bu sinifta hala cok iyi. ProMotion Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-04",
+      "model": "iPhone 14 Pro",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 14 Pro bekledigimden daha iyi. 48 MP ana sensor ile daha detayli cekim kabiliyeti.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-05",
+      "model": "iPhone 14 Pro",
+      "rating": 5,
+      "text": "iPhone 14 Pro pil tarafinda bekledigimden daha tutarli. Yuksek parlaklik ve AOD'ye ragmen iyi optimize pil dengesi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-04-02T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-06",
+      "model": "iPhone 14 Pro",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 14 Pro ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-19T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-07",
+      "model": "iPhone 14 Pro",
+      "rating": 4,
+      "text": "iPhone 14 Pro kamerasi gunluk cekimlerde guven veriyor. 48 MP ana sensor ile daha detayli cekim kabiliyeti.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-08",
+      "model": "iPhone 14 Pro",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 14 Pro oldukca hizli. A16 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-09",
+      "model": "iPhone 14 Pro",
+      "rating": 5,
+      "text": "iPhone 14 Pro ekran kalitesi bu sinifta hala cok iyi. ProMotion Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-10",
+      "model": "iPhone 14 Pro",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 14 Pro bekledigimden daha iyi. 48 MP ana sensor ile daha detayli cekim kabiliyeti.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-11",
+      "model": "iPhone 14 Pro",
+      "rating": 5,
+      "text": "iPhone 14 Pro pil tarafinda bekledigimden daha tutarli. Yuksek parlaklik ve AOD'ye ragmen iyi optimize pil dengesi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-07-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-12",
+      "model": "iPhone 14 Pro",
+      "rating": 3,
+      "text": "iPhone 14 Pro iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-13",
+      "model": "iPhone 14 Pro",
+      "rating": 3,
+      "text": "Yuksek parlaklik ve AOD'ye ragmen iyi optimize pil dengesi; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-14",
+      "model": "iPhone 14 Pro",
+      "rating": 4,
+      "text": "iPhone 14 Pro kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-09-02T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-15",
+      "model": "iPhone 14 Pro",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 14 Pro ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-09-19T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-16",
+      "model": "iPhone 14 Pro",
+      "rating": 2,
+      "text": "iPhone 14 Pro yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-17",
+      "model": "iPhone 14 Pro",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 14 Pro elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-18",
+      "model": "iPhone 14 Pro",
+      "rating": 2,
+      "text": "iPhone 14 Pro iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-19",
+      "model": "iPhone 14 Pro",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 14 Pro icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-20",
+      "model": "iPhone 14 Pro",
+      "rating": 2,
+      "text": "iPhone 14 Pro yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-12-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-01",
+      "model": "iPhone 14 Pro Max",
+      "rating": 4,
+      "text": "iPhone 14 Pro Max kamerasi gunluk cekimlerde guven veriyor. 48 MP kamera ve buyuk ekranla premium medya ve cekim deneyimi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-02",
+      "model": "iPhone 14 Pro Max",
+      "rating": 5,
+      "text": "Gun sonunda iPhone 14 Pro Max hala rahat kaliyor; ozellikle Yuksek parlaklikli buyuk ekrana ragmen cok guclu pil.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-03",
+      "model": "iPhone 14 Pro Max",
+      "rating": 5,
+      "text": "iPhone 14 Pro Max gunluk kullanimda cok akici hissettiriyor. A16 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-04",
+      "model": "iPhone 14 Pro Max",
+      "rating": 4,
+      "text": "Icerik tuketirken iPhone 14 Pro Max ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-05",
+      "model": "iPhone 14 Pro Max",
+      "rating": 5,
+      "text": "iPhone 14 Pro Max kamerasi gunluk cekimlerde guven veriyor. 48 MP kamera ve buyuk ekranla premium medya ve cekim deneyimi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-04-02T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-06",
+      "model": "iPhone 14 Pro Max",
+      "rating": 5,
+      "text": "Gun sonunda iPhone 14 Pro Max hala rahat kaliyor; ozellikle Yuksek parlaklikli buyuk ekrana ragmen cok guclu pil.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-19T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-07",
+      "model": "iPhone 14 Pro Max",
+      "rating": 4,
+      "text": "iPhone 14 Pro Max yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-08",
+      "model": "iPhone 14 Pro Max",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 14 Pro Max bekledigimden daha iyi. 48 MP kamera ve buyuk ekranla premium medya ve cekim deneyimi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-09",
+      "model": "iPhone 14 Pro Max",
+      "rating": 5,
+      "text": "iPhone 14 Pro Max pil tarafinda bekledigimden daha tutarli. Yuksek parlaklikli buyuk ekrana ragmen cok guclu pil.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-10",
+      "model": "iPhone 14 Pro Max",
+      "rating": 4,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 14 Pro Max oldukca hizli. A16 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-11",
+      "model": "iPhone 14 Pro Max",
+      "rating": 5,
+      "text": "iPhone 14 Pro Max ekran kalitesi bu sinifta hala cok iyi. ProMotion Super Retina XDR OLED 6.7\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-07-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-12",
+      "model": "iPhone 14 Pro Max",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 14 Pro Max bekledigimden daha iyi. 48 MP kamera ve buyuk ekranla premium medya ve cekim deneyimi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-07-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-13",
+      "model": "iPhone 14 Pro Max",
+      "rating": 3,
+      "text": "iPhone 14 Pro Max iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-14",
+      "model": "iPhone 14 Pro Max",
+      "rating": 3,
+      "text": "Yuksek parlaklikli buyuk ekrana ragmen cok guclu pil; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-09-02T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-15",
+      "model": "iPhone 14 Pro Max",
+      "rating": 4,
+      "text": "iPhone 14 Pro Max kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-09-19T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-16",
+      "model": "iPhone 14 Pro Max",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 14 Pro Max ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-10-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-17",
+      "model": "iPhone 14 Pro Max",
+      "rating": 2,
+      "text": "iPhone 14 Pro Max yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-18",
+      "model": "iPhone 14 Pro Max",
+      "rating": 3,
+      "text": "Performansi guclu olsa da iPhone 14 Pro Max icin fiyat tarafi halen can sikabiliyor.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-19",
+      "model": "iPhone 14 Pro Max",
+      "rating": 2,
+      "text": "iPhone 14 Pro Max baslangic depolamasi bana hizli doluyor gibi geldi.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-20",
+      "model": "iPhone 14 Pro Max",
+      "rating": 3,
+      "text": "Ergonomi tarafinda iPhone 14 Pro Max herkese hitap etmiyor; elde uzun sure tasimasi zorlayabiliyor.",
+      "aspect": "durability",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-12-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-14-pro-max-21",
+      "model": "iPhone 14 Pro Max",
+      "rating": 2,
+      "text": "iPhone 14 Pro Max kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-12-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-01",
+      "model": "iPhone 15",
+      "rating": 4,
+      "text": "iPhone 15 gunluk kullanimda cok akici hissettiriyor. A16 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-02",
+      "model": "iPhone 15",
+      "rating": 5,
+      "text": "Icerik tuketirken iPhone 15 ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-11T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-03",
+      "model": "iPhone 15",
+      "rating": 5,
+      "text": "iPhone 15 kamerasi gunluk cekimlerde guven veriyor. 48 MP ana kamera ana seri icin buyuk bir sicrama sunuyor.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-28T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-04",
+      "model": "iPhone 15",
+      "rating": 4,
+      "text": "Gun sonunda iPhone 15 hala rahat kaliyor; ozellikle USB-C donusumu ve verimli performansla dengeli kullanim suresi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-05",
+      "model": "iPhone 15",
+      "rating": 5,
+      "text": "iPhone 15 yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-04-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-06",
+      "model": "iPhone 15",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 15 oldukca hizli. A16 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-07",
+      "model": "iPhone 15",
+      "rating": 4,
+      "text": "iPhone 15 ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-08",
+      "model": "iPhone 15",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 15 bekledigimden daha iyi. 48 MP ana kamera ana seri icin buyuk bir sicrama sunuyor.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-09",
+      "model": "iPhone 15",
+      "rating": 5,
+      "text": "iPhone 15 pil tarafinda bekledigimden daha tutarli. USB-C donusumu ve verimli performansla dengeli kullanim suresi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-10",
+      "model": "iPhone 15",
+      "rating": 4,
+      "text": "iOS deneyimi iPhone 15 ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-11",
+      "model": "iPhone 15",
+      "rating": 5,
+      "text": "iPhone 15 gunluk kullanimda cok akici hissettiriyor. A16 Bionic hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-07-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-12",
+      "model": "iPhone 15",
+      "rating": 3,
+      "text": "iPhone 15 iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-07-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-13",
+      "model": "iPhone 15",
+      "rating": 3,
+      "text": "USB-C donusumu ve verimli performansla dengeli kullanim suresi; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-14",
+      "model": "iPhone 15",
+      "rating": 4,
+      "text": "iPhone 15 kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-09-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-15",
+      "model": "iPhone 15",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 15 ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-09-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-16",
+      "model": "iPhone 15",
+      "rating": 2,
+      "text": "iPhone 15 yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-10-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-17",
+      "model": "iPhone 15",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 15 elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-18",
+      "model": "iPhone 15",
+      "rating": 2,
+      "text": "iPhone 15 iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-19",
+      "model": "iPhone 15",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 15 icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-20",
+      "model": "iPhone 15",
+      "rating": 2,
+      "text": "iPhone 15 kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-12-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-01",
+      "model": "iPhone 15 Plus",
+      "rating": 4,
+      "text": "iPhone 15 Plus pil tarafinda bekledigimden daha tutarli. Serinin en guclu standart model pil performanslarindan biri.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-02",
+      "model": "iPhone 15 Plus",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 15 Plus oldukca hizli. A16 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-11T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-03",
+      "model": "iPhone 15 Plus",
+      "rating": 5,
+      "text": "iPhone 15 Plus ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.7\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-28T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-04",
+      "model": "iPhone 15 Plus",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 15 Plus bekledigimden daha iyi. 48 MP ana kamera buyuk ekran deneyimiyle destekleniyor.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-05",
+      "model": "iPhone 15 Plus",
+      "rating": 5,
+      "text": "iPhone 15 Plus pil tarafinda bekledigimden daha tutarli. Serinin en guclu standart model pil performanslarindan biri.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-04-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-06",
+      "model": "iPhone 15 Plus",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 15 Plus ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-07",
+      "model": "iPhone 15 Plus",
+      "rating": 4,
+      "text": "iPhone 15 Plus pil tarafinda bekledigimden daha tutarli. Serinin en guclu standart model pil performanslarindan biri.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-08",
+      "model": "iPhone 15 Plus",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 15 Plus oldukca hizli. A16 Bionic farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-09",
+      "model": "iPhone 15 Plus",
+      "rating": 5,
+      "text": "iPhone 15 Plus ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.7\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-10",
+      "model": "iPhone 15 Plus",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 15 Plus bekledigimden daha iyi. 48 MP ana kamera buyuk ekran deneyimiyle destekleniyor.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-11",
+      "model": "iPhone 15 Plus",
+      "rating": 5,
+      "text": "iPhone 15 Plus pil tarafinda bekledigimden daha tutarli. Serinin en guclu standart model pil performanslarindan biri.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-07-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-12",
+      "model": "iPhone 15 Plus",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 15 Plus ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-07-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-13",
+      "model": "iPhone 15 Plus",
+      "rating": 3,
+      "text": "iPhone 15 Plus iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-14",
+      "model": "iPhone 15 Plus",
+      "rating": 3,
+      "text": "Serinin en guclu standart model pil performanslarindan biri; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-09-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-15",
+      "model": "iPhone 15 Plus",
+      "rating": 4,
+      "text": "iPhone 15 Plus kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-09-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-16",
+      "model": "iPhone 15 Plus",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 15 Plus ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-10-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-17",
+      "model": "iPhone 15 Plus",
+      "rating": 2,
+      "text": "iPhone 15 Plus yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-18",
+      "model": "iPhone 15 Plus",
+      "rating": 3,
+      "text": "Performansi guclu olsa da iPhone 15 Plus icin fiyat tarafi halen can sikabiliyor.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-19",
+      "model": "iPhone 15 Plus",
+      "rating": 2,
+      "text": "iPhone 15 Plus baslangic depolamasi bana hizli doluyor gibi geldi.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-20",
+      "model": "iPhone 15 Plus",
+      "rating": 3,
+      "text": "Ergonomi tarafinda iPhone 15 Plus herkese hitap etmiyor; elde uzun sure tasimasi zorlayabiliyor.",
+      "aspect": "durability",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-12-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-plus-21",
+      "model": "iPhone 15 Plus",
+      "rating": 2,
+      "text": "iPhone 15 Plus kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-12-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-01",
+      "model": "iPhone 15 Pro",
+      "rating": 4,
+      "text": "iPhone 15 Pro kamerasi gunluk cekimlerde guven veriyor. Gelismis hesaplamali cekim ve pro video imkanlari.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-02",
+      "model": "iPhone 15 Pro",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 15 Pro oldukca hizli. A17 Pro farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-11T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-03",
+      "model": "iPhone 15 Pro",
+      "rating": 5,
+      "text": "iPhone 15 Pro ekran kalitesi bu sinifta hala cok iyi. ProMotion Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-28T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-04",
+      "model": "iPhone 15 Pro",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 15 Pro bekledigimden daha iyi. Gelismis hesaplamali cekim ve pro video imkanlari.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-05",
+      "model": "iPhone 15 Pro",
+      "rating": 5,
+      "text": "iPhone 15 Pro pil tarafinda bekledigimden daha tutarli. Titanyum kasaya gecisle hafifleyen premium modelde dengeli pil.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-04-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-06",
+      "model": "iPhone 15 Pro",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 15 Pro ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-07",
+      "model": "iPhone 15 Pro",
+      "rating": 4,
+      "text": "iPhone 15 Pro kamerasi gunluk cekimlerde guven veriyor. Gelismis hesaplamali cekim ve pro video imkanlari.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-08",
+      "model": "iPhone 15 Pro",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 15 Pro oldukca hizli. A17 Pro farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-09",
+      "model": "iPhone 15 Pro",
+      "rating": 5,
+      "text": "iPhone 15 Pro ekran kalitesi bu sinifta hala cok iyi. ProMotion Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-10",
+      "model": "iPhone 15 Pro",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 15 Pro bekledigimden daha iyi. Gelismis hesaplamali cekim ve pro video imkanlari.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-11",
+      "model": "iPhone 15 Pro",
+      "rating": 5,
+      "text": "iPhone 15 Pro pil tarafinda bekledigimden daha tutarli. Titanyum kasaya gecisle hafifleyen premium modelde dengeli pil.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-07-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-12",
+      "model": "iPhone 15 Pro",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 15 Pro ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-07-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-13",
+      "model": "iPhone 15 Pro",
+      "rating": 3,
+      "text": "iPhone 15 Pro iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-08-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-14",
+      "model": "iPhone 15 Pro",
+      "rating": 3,
+      "text": "Titanyum kasaya gecisle hafifleyen premium modelde dengeli pil; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-09-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-15",
+      "model": "iPhone 15 Pro",
+      "rating": 4,
+      "text": "iPhone 15 Pro kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-09-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-16",
+      "model": "iPhone 15 Pro",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 15 Pro ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-10-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-17",
+      "model": "iPhone 15 Pro",
+      "rating": 2,
+      "text": "iPhone 15 Pro yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-10-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-18",
+      "model": "iPhone 15 Pro",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 15 Pro elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-19",
+      "model": "iPhone 15 Pro",
+      "rating": 2,
+      "text": "iPhone 15 Pro iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-20",
+      "model": "iPhone 15 Pro",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 15 Pro icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-12-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-21",
+      "model": "iPhone 15 Pro",
+      "rating": 2,
+      "text": "iPhone 15 Pro yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-12-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-01",
+      "model": "iPhone 15 Pro Max",
+      "rating": 4,
+      "text": "iPhone 15 Pro Max kamerasi gunluk cekimlerde guven veriyor. Tetraprism zoom ile serinin en esnek kamera sistemi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-01-25T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-02",
+      "model": "iPhone 15 Pro Max",
+      "rating": 5,
+      "text": "Gun sonunda iPhone 15 Pro Max hala rahat kaliyor; ozellikle Buyuk ekran ve guclu verimlilikle cok iyi dayaniklilik.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-02-11T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-03",
+      "model": "iPhone 15 Pro Max",
+      "rating": 5,
+      "text": "iPhone 15 Pro Max gunluk kullanimda cok akici hissettiriyor. A17 Pro hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-02-28T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-04",
+      "model": "iPhone 15 Pro Max",
+      "rating": 4,
+      "text": "Icerik tuketirken iPhone 15 Pro Max ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-03-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-05",
+      "model": "iPhone 15 Pro Max",
+      "rating": 5,
+      "text": "iPhone 15 Pro Max kamerasi gunluk cekimlerde guven veriyor. Tetraprism zoom ile serinin en esnek kamera sistemi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-04-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-06",
+      "model": "iPhone 15 Pro Max",
+      "rating": 5,
+      "text": "Gun sonunda iPhone 15 Pro Max hala rahat kaliyor; ozellikle Buyuk ekran ve guclu verimlilikle cok iyi dayaniklilik.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-04-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-07",
+      "model": "iPhone 15 Pro Max",
+      "rating": 4,
+      "text": "iPhone 15 Pro Max yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-05-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-08",
+      "model": "iPhone 15 Pro Max",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 15 Pro Max bekledigimden daha iyi. Tetraprism zoom ile serinin en esnek kamera sistemi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-05-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-09",
+      "model": "iPhone 15 Pro Max",
+      "rating": 5,
+      "text": "iPhone 15 Pro Max pil tarafinda bekledigimden daha tutarli. Buyuk ekran ve guclu verimlilikle cok iyi dayaniklilik.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-06-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-10",
+      "model": "iPhone 15 Pro Max",
+      "rating": 4,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 15 Pro Max oldukca hizli. A17 Pro farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2023-06-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-11",
+      "model": "iPhone 15 Pro Max",
+      "rating": 5,
+      "text": "iPhone 15 Pro Max ekran kalitesi bu sinifta hala cok iyi. ProMotion Super Retina XDR OLED 6.7\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2023-07-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-12",
+      "model": "iPhone 15 Pro Max",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 15 Pro Max bekledigimden daha iyi. Tetraprism zoom ile serinin en esnek kamera sistemi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2023-07-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-13",
+      "model": "iPhone 15 Pro Max",
+      "rating": 4,
+      "text": "iPhone 15 Pro Max pil tarafinda bekledigimden daha tutarli. Buyuk ekran ve guclu verimlilikle cok iyi dayaniklilik.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2023-08-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-14",
+      "model": "iPhone 15 Pro Max",
+      "rating": 3,
+      "text": "iPhone 15 Pro Max iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2023-09-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-15",
+      "model": "iPhone 15 Pro Max",
+      "rating": 3,
+      "text": "Buyuk ekran ve guclu verimlilikle cok iyi dayaniklilik; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2023-09-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-16",
+      "model": "iPhone 15 Pro Max",
+      "rating": 4,
+      "text": "iPhone 15 Pro Max kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2023-10-07T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-17",
+      "model": "iPhone 15 Pro Max",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 15 Pro Max ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2023-10-24T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-18",
+      "model": "iPhone 15 Pro Max",
+      "rating": 2,
+      "text": "iPhone 15 Pro Max yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2023-11-10T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-19",
+      "model": "iPhone 15 Pro Max",
+      "rating": 3,
+      "text": "Performansi guclu olsa da iPhone 15 Pro Max icin fiyat tarafi halen can sikabiliyor.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2023-11-27T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-20",
+      "model": "iPhone 15 Pro Max",
+      "rating": 2,
+      "text": "iPhone 15 Pro Max baslangic depolamasi bana hizli doluyor gibi geldi.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2023-12-14T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-21",
+      "model": "iPhone 15 Pro Max",
+      "rating": 3,
+      "text": "Ergonomi tarafinda iPhone 15 Pro Max herkese hitap etmiyor; elde uzun sure tasimasi zorlayabiliyor.",
+      "aspect": "durability",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2023-12-31T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-15-pro-max-22",
+      "model": "iPhone 15 Pro Max",
+      "rating": 2,
+      "text": "iPhone 15 Pro Max kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2024-01-17T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-01",
+      "model": "iPhone 16",
+      "rating": 4,
+      "text": "iPhone 16 gunluk kullanimda cok akici hissettiriyor. A18 hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-02",
+      "model": "iPhone 16",
+      "rating": 5,
+      "text": "Icerik tuketirken iPhone 16 ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-02-01T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-03",
+      "model": "iPhone 16",
+      "rating": 5,
+      "text": "iPhone 16 kamerasi gunluk cekimlerde guven veriyor. Camera Control ile cekime hizli erisim sunan rafine ana paket.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2024-02-18T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-04",
+      "model": "iPhone 16",
+      "rating": 4,
+      "text": "Gun sonunda iPhone 16 hala rahat kaliyor; ozellikle Verimlilik iyilesmeleriyle daha tutarli gunluk dayaniklilik.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2024-03-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-05",
+      "model": "iPhone 16",
+      "rating": 5,
+      "text": "iPhone 16 yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-03-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-06",
+      "model": "iPhone 16",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 16 oldukca hizli. A18 farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-04-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-07",
+      "model": "iPhone 16",
+      "rating": 4,
+      "text": "iPhone 16 ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.1\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2024-04-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-08",
+      "model": "iPhone 16",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 16 bekledigimden daha iyi. Camera Control ile cekime hizli erisim sunan rafine ana paket.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2024-05-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-09",
+      "model": "iPhone 16",
+      "rating": 5,
+      "text": "iPhone 16 pil tarafinda bekledigimden daha tutarli. Verimlilik iyilesmeleriyle daha tutarli gunluk dayaniklilik.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-05-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-10",
+      "model": "iPhone 16",
+      "rating": 4,
+      "text": "iOS deneyimi iPhone 16 ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-06-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-11",
+      "model": "iPhone 16",
+      "rating": 5,
+      "text": "iPhone 16 gunluk kullanimda cok akici hissettiriyor. A18 hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2024-07-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-12",
+      "model": "iPhone 16",
+      "rating": 5,
+      "text": "Icerik tuketirken iPhone 16 ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2024-07-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-13",
+      "model": "iPhone 16",
+      "rating": 3,
+      "text": "iPhone 16 iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2024-08-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-14",
+      "model": "iPhone 16",
+      "rating": 3,
+      "text": "Verimlilik iyilesmeleriyle daha tutarli gunluk dayaniklilik; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2024-08-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-15",
+      "model": "iPhone 16",
+      "rating": 4,
+      "text": "iPhone 16 kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2024-09-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-16",
+      "model": "iPhone 16",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 16 ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2024-09-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-17",
+      "model": "iPhone 16",
+      "rating": 2,
+      "text": "iPhone 16 yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2024-10-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-18",
+      "model": "iPhone 16",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 16 elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2024-10-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-19",
+      "model": "iPhone 16",
+      "rating": 2,
+      "text": "iPhone 16 iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2024-11-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-20",
+      "model": "iPhone 16",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 16 icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2024-12-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-21",
+      "model": "iPhone 16",
+      "rating": 2,
+      "text": "iPhone 16 kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2024-12-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-01",
+      "model": "iPhone 16 Plus",
+      "rating": 4,
+      "text": "iPhone 16 Plus pil tarafinda bekledigimden daha tutarli. Buyuk govdede rahat gun sonu hatta ertesi gun kullanim potansiyeli.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-02",
+      "model": "iPhone 16 Plus",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 16 Plus oldukca hizli. A18 farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-02-01T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-03",
+      "model": "iPhone 16 Plus",
+      "rating": 5,
+      "text": "iPhone 16 Plus ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.7\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2024-02-18T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-04",
+      "model": "iPhone 16 Plus",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 16 Plus bekledigimden daha iyi. Standart seri icin guclu ama sadelestirilmis kamera deneyimi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2024-03-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-05",
+      "model": "iPhone 16 Plus",
+      "rating": 5,
+      "text": "iPhone 16 Plus pil tarafinda bekledigimden daha tutarli. Buyuk govdede rahat gun sonu hatta ertesi gun kullanim potansiyeli.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-03-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-06",
+      "model": "iPhone 16 Plus",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 16 Plus ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-04-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-07",
+      "model": "iPhone 16 Plus",
+      "rating": 4,
+      "text": "iPhone 16 Plus pil tarafinda bekledigimden daha tutarli. Buyuk govdede rahat gun sonu hatta ertesi gun kullanim potansiyeli.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2024-04-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-08",
+      "model": "iPhone 16 Plus",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 16 Plus oldukca hizli. A18 farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2024-05-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-09",
+      "model": "iPhone 16 Plus",
+      "rating": 5,
+      "text": "iPhone 16 Plus ekran kalitesi bu sinifta hala cok iyi. Super Retina XDR OLED 6.7\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-05-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-10",
+      "model": "iPhone 16 Plus",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 16 Plus bekledigimden daha iyi. Standart seri icin guclu ama sadelestirilmis kamera deneyimi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-06-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-11",
+      "model": "iPhone 16 Plus",
+      "rating": 5,
+      "text": "iPhone 16 Plus pil tarafinda bekledigimden daha tutarli. Buyuk govdede rahat gun sonu hatta ertesi gun kullanim potansiyeli.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2024-07-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-12",
+      "model": "iPhone 16 Plus",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 16 Plus ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2024-07-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-13",
+      "model": "iPhone 16 Plus",
+      "rating": 4,
+      "text": "iPhone 16 Plus pil tarafinda bekledigimden daha tutarli. Buyuk govdede rahat gun sonu hatta ertesi gun kullanim potansiyeli.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-08-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-14",
+      "model": "iPhone 16 Plus",
+      "rating": 3,
+      "text": "iPhone 16 Plus iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2024-08-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-15",
+      "model": "iPhone 16 Plus",
+      "rating": 3,
+      "text": "Buyuk govdede rahat gun sonu hatta ertesi gun kullanim potansiyeli; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2024-09-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-16",
+      "model": "iPhone 16 Plus",
+      "rating": 4,
+      "text": "iPhone 16 Plus kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2024-09-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-17",
+      "model": "iPhone 16 Plus",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 16 Plus ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2024-10-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-18",
+      "model": "iPhone 16 Plus",
+      "rating": 2,
+      "text": "iPhone 16 Plus yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2024-10-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-19",
+      "model": "iPhone 16 Plus",
+      "rating": 3,
+      "text": "Performansi guclu olsa da iPhone 16 Plus icin fiyat tarafi halen can sikabiliyor.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2024-11-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-20",
+      "model": "iPhone 16 Plus",
+      "rating": 2,
+      "text": "iPhone 16 Plus baslangic depolamasi bana hizli doluyor gibi geldi.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2024-12-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-21",
+      "model": "iPhone 16 Plus",
+      "rating": 3,
+      "text": "Ergonomi tarafinda iPhone 16 Plus herkese hitap etmiyor; elde uzun sure tasimasi zorlayabiliyor.",
+      "aspect": "durability",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2024-12-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-plus-22",
+      "model": "iPhone 16 Plus",
+      "rating": 2,
+      "text": "iPhone 16 Plus kamera genel olarak iyi ama gece cekimlerinde her zaman bekledigim kadar stabil degil.",
+      "aspect": "camera",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2025-01-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-01",
+      "model": "iPhone 16 Pro",
+      "rating": 4,
+      "text": "iPhone 16 Pro kamerasi gunluk cekimlerde guven veriyor. Guclu video, hizli odak ve pro workflows icin optimize sistem.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-02",
+      "model": "iPhone 16 Pro",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 16 Pro oldukca hizli. A18 Pro farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-02-01T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-03",
+      "model": "iPhone 16 Pro",
+      "rating": 5,
+      "text": "iPhone 16 Pro ekran kalitesi bu sinifta hala cok iyi. ProMotion Super Retina XDR OLED 6.3\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2024-02-18T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-04",
+      "model": "iPhone 16 Pro",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 16 Pro bekledigimden daha iyi. Guclu video, hizli odak ve pro workflows icin optimize sistem.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2024-03-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-05",
+      "model": "iPhone 16 Pro",
+      "rating": 5,
+      "text": "iPhone 16 Pro pil tarafinda bekledigimden daha tutarli. Yeni termal ve verimlilik ayarlariyla daha istikrarli premium pil davranisi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-03-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-06",
+      "model": "iPhone 16 Pro",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 16 Pro ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-04-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-07",
+      "model": "iPhone 16 Pro",
+      "rating": 4,
+      "text": "iPhone 16 Pro kamerasi gunluk cekimlerde guven veriyor. Guclu video, hizli odak ve pro workflows icin optimize sistem.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2024-04-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-08",
+      "model": "iPhone 16 Pro",
+      "rating": 5,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 16 Pro oldukca hizli. A18 Pro farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2024-05-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-09",
+      "model": "iPhone 16 Pro",
+      "rating": 5,
+      "text": "iPhone 16 Pro ekran kalitesi bu sinifta hala cok iyi. ProMotion Super Retina XDR OLED 6.3\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-05-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-10",
+      "model": "iPhone 16 Pro",
+      "rating": 4,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 16 Pro bekledigimden daha iyi. Guclu video, hizli odak ve pro workflows icin optimize sistem.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-06-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-11",
+      "model": "iPhone 16 Pro",
+      "rating": 5,
+      "text": "iPhone 16 Pro pil tarafinda bekledigimden daha tutarli. Yeni termal ve verimlilik ayarlariyla daha istikrarli premium pil davranisi.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2024-07-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-12",
+      "model": "iPhone 16 Pro",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 16 Pro ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2024-07-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-13",
+      "model": "iPhone 16 Pro",
+      "rating": 4,
+      "text": "iPhone 16 Pro kamerasi gunluk cekimlerde guven veriyor. Guclu video, hizli odak ve pro workflows icin optimize sistem.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-08-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-14",
+      "model": "iPhone 16 Pro",
+      "rating": 3,
+      "text": "iPhone 16 Pro iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2024-08-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-15",
+      "model": "iPhone 16 Pro",
+      "rating": 3,
+      "text": "Yeni termal ve verimlilik ayarlariyla daha istikrarli premium pil davranisi; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2024-09-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-16",
+      "model": "iPhone 16 Pro",
+      "rating": 4,
+      "text": "iPhone 16 Pro kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2024-09-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-17",
+      "model": "iPhone 16 Pro",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 16 Pro ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2024-10-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-18",
+      "model": "iPhone 16 Pro",
+      "rating": 2,
+      "text": "iPhone 16 Pro yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2024-10-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-19",
+      "model": "iPhone 16 Pro",
+      "rating": 3,
+      "text": "Uzun sure cekim veya performans yukunde iPhone 16 Pro elde sicak hissettiriyor.",
+      "aspect": "heat",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2024-11-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-20",
+      "model": "iPhone 16 Pro",
+      "rating": 2,
+      "text": "iPhone 16 Pro iyi ama bugunku fiyat seviyesiyle daha zor tavsiye ediyorum.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2024-12-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-21",
+      "model": "iPhone 16 Pro",
+      "rating": 3,
+      "text": "Ozellikle uzun sureli kullanimda iPhone 16 Pro icin dusuk depolama secenekleri sinirlayici olabiliyor.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2024-12-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-22",
+      "model": "iPhone 16 Pro",
+      "rating": 2,
+      "text": "iPhone 16 Pro yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2025-01-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-01",
+      "model": "iPhone 16 Pro Max",
+      "rating": 4,
+      "text": "iPhone 16 Pro Max kamerasi gunluk cekimlerde guven veriyor. En ust seviye zoom, video ve hesaplamali cekim dengesi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-02",
+      "model": "iPhone 16 Pro Max",
+      "rating": 5,
+      "text": "Gun sonunda iPhone 16 Pro Max hala rahat kaliyor; ozellikle Serinin en iddiali pil ve buyuk ekran kombinasyonu.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-02-01T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-03",
+      "model": "iPhone 16 Pro Max",
+      "rating": 5,
+      "text": "iPhone 16 Pro Max gunluk kullanimda cok akici hissettiriyor. A18 Pro hala cok guclu.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2024-02-18T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-04",
+      "model": "iPhone 16 Pro Max",
+      "rating": 4,
+      "text": "Icerik tuketirken iPhone 16 Pro Max ekrani temiz ve keyifli gorunuyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2024-03-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-05",
+      "model": "iPhone 16 Pro Max",
+      "rating": 5,
+      "text": "iPhone 16 Pro Max kamerasi gunluk cekimlerde guven veriyor. En ust seviye zoom, video ve hesaplamali cekim dengesi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-03-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-06",
+      "model": "iPhone 16 Pro Max",
+      "rating": 5,
+      "text": "Gun sonunda iPhone 16 Pro Max hala rahat kaliyor; ozellikle Serinin en iddiali pil ve buyuk ekran kombinasyonu.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-04-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-07",
+      "model": "iPhone 16 Pro Max",
+      "rating": 4,
+      "text": "iPhone 16 Pro Max yazilim tarafinda istikrarli ve uzun sure kullanilabilir hissettiriyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2024-04-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-08",
+      "model": "iPhone 16 Pro Max",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 16 Pro Max bekledigimden daha iyi. En ust seviye zoom, video ve hesaplamali cekim dengesi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2024-05-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-09",
+      "model": "iPhone 16 Pro Max",
+      "rating": 5,
+      "text": "iPhone 16 Pro Max pil tarafinda bekledigimden daha tutarli. Serinin en iddiali pil ve buyuk ekran kombinasyonu.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-05-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-10",
+      "model": "iPhone 16 Pro Max",
+      "rating": 4,
+      "text": "Uygulama gecisleri ve oyunlarda iPhone 16 Pro Max oldukca hizli. A18 Pro farki hissediliyor.",
+      "aspect": "performance",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-06-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-11",
+      "model": "iPhone 16 Pro Max",
+      "rating": 5,
+      "text": "iPhone 16 Pro Max ekran kalitesi bu sinifta hala cok iyi. ProMotion Super Retina XDR OLED 6.9\" paneli memnun ediyor.",
+      "aspect": "display",
+      "sentiment": "positive",
+      "source": "User review",
+      "timestamp": "2024-07-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-12",
+      "model": "iPhone 16 Pro Max",
+      "rating": 5,
+      "text": "Ozellikle fotograf ve video tarafinda iPhone 16 Pro Max bekledigimden daha iyi. En ust seviye zoom, video ve hesaplamali cekim dengesi.",
+      "aspect": "camera",
+      "sentiment": "positive",
+      "source": "Tech community",
+      "timestamp": "2024-07-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-13",
+      "model": "iPhone 16 Pro Max",
+      "rating": 4,
+      "text": "iPhone 16 Pro Max pil tarafinda bekledigimden daha tutarli. Serinin en iddiali pil ve buyuk ekran kombinasyonu.",
+      "aspect": "battery",
+      "sentiment": "positive",
+      "source": "Reddit",
+      "timestamp": "2024-08-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-14",
+      "model": "iPhone 16 Pro Max",
+      "rating": 5,
+      "text": "iOS deneyimi iPhone 16 Pro Max ustunde tutarli ve sorunsuz ilerliyor.",
+      "aspect": "software",
+      "sentiment": "positive",
+      "source": "Community forum",
+      "timestamp": "2024-08-23T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-15",
+      "model": "iPhone 16 Pro Max",
+      "rating": 3,
+      "text": "iPhone 16 Pro Max iyi bir cihaz ama fiyatini de hissettiriyor.",
+      "aspect": "price",
+      "sentiment": "neutral",
+      "source": "User review",
+      "timestamp": "2024-09-09T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-16",
+      "model": "iPhone 16 Pro Max",
+      "rating": 3,
+      "text": "Serinin en iddiali pil ve buyuk ekran kombinasyonu; yani genel olarak yeterli ama buyuk bir surpriz de degil.",
+      "aspect": "battery",
+      "sentiment": "neutral",
+      "source": "Tech community",
+      "timestamp": "2024-09-26T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-17",
+      "model": "iPhone 16 Pro Max",
+      "rating": 4,
+      "text": "iPhone 16 Pro Max kamera tarafinda guvenilir ama fark yaratan kisim daha cok isik kosullarina bagli.",
+      "aspect": "camera",
+      "sentiment": "neutral",
+      "source": "Reddit",
+      "timestamp": "2024-10-13T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-18",
+      "model": "iPhone 16 Pro Max",
+      "rating": 4,
+      "text": "iOS akici ama iPhone 16 Pro Max ile onceki nesil arasinda her zaman dramatik fark hissetmedim.",
+      "aspect": "software",
+      "sentiment": "neutral",
+      "source": "Community forum",
+      "timestamp": "2024-10-30T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-19",
+      "model": "iPhone 16 Pro Max",
+      "rating": 2,
+      "text": "iPhone 16 Pro Max yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2024-11-16T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-20",
+      "model": "iPhone 16 Pro Max",
+      "rating": 3,
+      "text": "Performansi guclu olsa da iPhone 16 Pro Max icin fiyat tarafi halen can sikabiliyor.",
+      "aspect": "price",
+      "sentiment": "negative",
+      "source": "Tech community",
+      "timestamp": "2024-12-03T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-21",
+      "model": "iPhone 16 Pro Max",
+      "rating": 2,
+      "text": "iPhone 16 Pro Max baslangic depolamasi bana hizli doluyor gibi geldi.",
+      "aspect": "storage",
+      "sentiment": "negative",
+      "source": "Reddit",
+      "timestamp": "2024-12-20T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-22",
+      "model": "iPhone 16 Pro Max",
+      "rating": 3,
+      "text": "Ergonomi tarafinda iPhone 16 Pro Max herkese hitap etmiyor; elde uzun sure tasimasi zorlayabiliyor.",
+      "aspect": "durability",
+      "sentiment": "negative",
+      "source": "Community forum",
+      "timestamp": "2025-01-06T10:30:00Z"
+    },
+    {
+      "id": "review-iphone-16-pro-max-23",
+      "model": "iPhone 16 Pro Max",
+      "rating": 2,
+      "text": "iPhone 16 Pro Max yogun kullanimda aksam saatlerine dogru pili hizli dusurebiliyor.",
+      "aspect": "battery",
+      "sentiment": "negative",
+      "source": "User review",
+      "timestamp": "2025-01-23T10:30:00Z"
+    }
+  ]
+}
